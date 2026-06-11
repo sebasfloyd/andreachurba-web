@@ -1,5 +1,6 @@
 "use client";
 
+import { useRef, useState, useEffect } from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
 import { Check } from "lucide-react";
@@ -23,17 +24,47 @@ const credenciales = [
 ];
 
 export default function AcercaSection() {
+  const videoRef = useRef<HTMLVideoElement>(null);
+  const [videoReady, setVideoReady] = useState(false);
+
+  useEffect(() => {
+    const v = videoRef.current;
+    if (!v) return;
+    if (v.readyState >= 2) setVideoReady(true);
+    v.play().catch(() => {});
+  }, []);
+
   return (
     <section id="sobre-mi" className="bg-bg relative">
-      {/* Hero portrait full-bleed */}
+      {/* Hero portrait con video AI */}
       <div className="relative h-[60vh] md:h-[70vh] min-h-[400px] overflow-hidden">
+        {/* Poster fallback */}
         <Image
           src="/images/andrea/andrea-anteojos.jpg"
-          alt="Andrea Churba"
+          alt=""
+          aria-hidden
           fill
           sizes="100vw"
           className="object-cover object-center"
+          style={{ opacity: videoReady ? 0 : 1, transition: "opacity 0.8s ease-out" }}
         />
+
+        {/* AI Video Higgsfield — Andrea warm color portrait */}
+        <video
+          ref={videoRef}
+          autoPlay
+          muted
+          loop
+          playsInline
+          preload="auto"
+          onLoadedData={() => setVideoReady(true)}
+          onCanPlay={() => setVideoReady(true)}
+          className="absolute inset-0 w-full h-full object-cover"
+          style={{ opacity: videoReady ? 1 : 0, transition: "opacity 1s ease-out" }}
+        >
+          <source src="/videos/andrea-warm-ai.mp4" type="video/mp4" />
+        </video>
+
         <div
           aria-hidden
           className="absolute inset-0"
@@ -58,6 +89,7 @@ export default function AcercaSection() {
             viewport={{ once: true }}
             transition={{ duration: 0.9, delay: 0.1 }}
             className="text-light text-[clamp(30px,5.5vw,72px)] font-semibold tracking-tightest leading-[1.05] max-w-3xl mb-6"
+            style={{ textShadow: "0 2px 24px rgba(0,0,0,0.4)" }}
           >
             No vine a darte herramientas. Vine a que las uses.
           </motion.h2>
@@ -67,6 +99,7 @@ export default function AcercaSection() {
             viewport={{ once: true }}
             transition={{ duration: 0.9, delay: 0.2 }}
             className="text-light/85 text-[clamp(15px,1.4vw,18px)] leading-[1.5] max-w-xl mb-8"
+            style={{ textShadow: "0 2px 16px rgba(0,0,0,0.5)" }}
           >
             Trabajo desde la psicología clínica aplicada al universo laboral. Lo que vemos juntas se prueba afuera: en la próxima reunión, en la conversación difícil, en la decisión que venís postergando.
           </motion.p>
