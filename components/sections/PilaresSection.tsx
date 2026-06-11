@@ -69,22 +69,79 @@ export default function PilaresSection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-80px" }}
           transition={{ duration: 0.9 }}
-          className="mb-12 md:mb-20 max-w-3xl"
+          className="mb-10 md:mb-20 max-w-3xl"
         >
           <p className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-ink2 mb-6">
             <span className="w-1.5 h-1.5 rounded-full bg-ink" />
             Pilares del método
           </p>
-          <h2 className="text-ink text-[clamp(30px,5vw,64px)] font-semibold tracking-tightest leading-[1.05] text-balance">
+          <h2 className="text-ink text-[clamp(26px,5vw,64px)] font-semibold tracking-tightest leading-[1.05] text-balance">
             Seis ideas con las que trabajo.{" "}
             <span className="text-ink4 hidden md:inline">Movete sobre cada una.</span>
             <span className="text-ink4 md:hidden">Tocá cada una.</span>
           </h2>
         </motion.div>
 
-        <div className="grid lg:grid-cols-12 gap-6 lg:gap-12">
-          {/* Foto que cambia (desktop sticky / mobile fixed top) */}
-          <div className="lg:col-span-5 lg:sticky lg:top-28 h-fit order-1 lg:order-1">
+        {/* MOBILE: carrusel horizontal de pilares, cada uno con su foto */}
+        <div className="lg:hidden -mx-4">
+          <div className="flex gap-3 overflow-x-auto snap-x snap-mandatory no-scrollbar pb-4 px-4">
+            {pilares.map((p, i) => (
+              <motion.article
+                key={p.numero}
+                initial={{ opacity: 0, y: 24 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true, margin: "-30px" }}
+                transition={{ duration: 0.6, delay: i * 0.05 }}
+                className="snap-start shrink-0 w-[80%] sm:w-[60%]"
+              >
+                <div className="relative aspect-[3/4] rounded-3xl overflow-hidden bg-lightWarm shadow-card">
+                  <Image
+                    src={p.imagen}
+                    alt={p.titulo}
+                    fill
+                    sizes="80vw"
+                    className="object-cover object-center"
+                  />
+                  <div
+                    aria-hidden
+                    className={`absolute inset-0 ${p.color} opacity-40 mix-blend-multiply`}
+                  />
+                  <div
+                    aria-hidden
+                    className="absolute inset-0"
+                    style={{ background: "linear-gradient(180deg, transparent 35%, rgba(0,0,0,0.75) 100%)" }}
+                  />
+
+                  <div className="absolute inset-0 p-5 flex flex-col justify-between text-light">
+                    <div className="flex items-start justify-between">
+                      <span className="text-[clamp(38px,8vw,60px)] font-semibold tracking-tightest leading-none">
+                        {p.numero}
+                      </span>
+                      <span className="inline-flex items-center px-2.5 py-1 rounded-full bg-light/15 backdrop-blur text-light text-[9.5px] font-bold uppercase tracking-widewide border border-white/25">
+                        {parseInt(p.numero)} / {pilares.length}
+                      </span>
+                    </div>
+                    <div>
+                      <h3 className="font-semibold text-[22px] tracking-tightest leading-[1.05] mb-2.5">
+                        {p.titulo}
+                      </h3>
+                      <p className="text-[13px] text-light/85 leading-[1.5]">
+                        {p.bajada}
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </motion.article>
+            ))}
+          </div>
+          <p className="mt-4 px-4 text-[11px] font-bold uppercase tracking-widewide text-ink3">
+            ← Deslizá para ver los 6 pilares
+          </p>
+        </div>
+
+        {/* DESKTOP: layout 5/7 con foto sticky + lista interactiva */}
+        <div className="hidden lg:grid lg:grid-cols-12 gap-6 lg:gap-12">
+          <div className="lg:col-span-5 lg:sticky lg:top-28 h-fit">
             <div className="relative aspect-[4/5] rounded-3xl overflow-hidden bg-lightWarm shadow-card">
               <AnimatePresence mode="wait">
                 <motion.div
@@ -99,7 +156,7 @@ export default function PilaresSection() {
                     src={current.imagen}
                     alt={current.titulo}
                     fill
-                    sizes="(max-width: 1024px) 90vw, 580px"
+                    sizes="580px"
                     className="object-cover object-center"
                   />
                 </motion.div>
@@ -115,14 +172,14 @@ export default function PilaresSection() {
                 style={{ background: "linear-gradient(180deg, transparent 50%, rgba(0,0,0,0.6) 100%)" }}
               />
 
-              <div className="absolute inset-0 p-6 md:p-10 flex flex-col justify-between text-light">
+              <div className="absolute inset-0 p-10 flex flex-col justify-between text-light">
                 <div className="flex items-center justify-between">
                   <motion.span
                     key={`num-${current.numero}`}
                     initial={{ opacity: 0, y: -8 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.5 }}
-                    className="text-[clamp(40px,7vw,120px)] font-semibold tracking-tightest leading-none"
+                    className="text-[clamp(48px,7vw,120px)] font-semibold tracking-tightest leading-none"
                   >
                     {current.numero}
                   </motion.span>
@@ -139,10 +196,10 @@ export default function PilaresSection() {
                       exit={{ opacity: 0, y: -10 }}
                       transition={{ duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
                     >
-                      <h3 className="font-semibold text-[clamp(24px,3.5vw,42px)] tracking-tightest leading-[1.02] mb-3">
+                      <h3 className="font-semibold text-[clamp(28px,3.5vw,42px)] tracking-tightest leading-[1.02] mb-3">
                         {current.titulo}
                       </h3>
-                      <p className="text-[14px] md:text-[15px] text-light/85 leading-[1.5] max-w-md">
+                      <p className="text-[15px] text-light/85 leading-[1.5] max-w-md">
                         {current.bajada}
                       </p>
                     </motion.div>
@@ -152,8 +209,7 @@ export default function PilaresSection() {
             </div>
           </div>
 
-          {/* Lista interactiva */}
-          <ul className="lg:col-span-7 divide-y divide-lineLight border-y border-lineLight order-2 lg:order-2">
+          <ul className="lg:col-span-7 divide-y divide-lineLight border-y border-lineLight">
             {pilares.map((p, i) => {
               const isActive = active === i;
               return (
@@ -167,13 +223,13 @@ export default function PilaresSection() {
                   <button
                     onMouseEnter={() => setActive(i)}
                     onClick={() => setActive(i)}
-                    className={`w-full text-left py-5 md:py-7 px-1 md:px-2 transition-colors duration-300 ${
+                    className={`w-full text-left py-7 px-2 transition-colors duration-300 ${
                       isActive ? "bg-lightSoft" : "hover:bg-lightSoft/40"
                     }`}
                     aria-expanded={isActive}
                   >
-                    <div className="flex items-baseline gap-4 md:gap-7">
-                      <span className={`shrink-0 font-mono text-[11px] md:text-[12px] font-bold tracking-tight transition-all duration-500 ${isActive ? "text-violet scale-110" : "text-ink4"}`}>
+                    <div className="flex items-baseline gap-7">
+                      <span className={`shrink-0 font-mono text-[12px] font-bold tracking-tight transition-all duration-500 ${isActive ? "text-violet scale-110" : "text-ink4"}`}>
                         {p.numero}
                       </span>
 
@@ -184,7 +240,7 @@ export default function PilaresSection() {
                             x: isActive ? 6 : 0,
                           }}
                           transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
-                          className="text-[clamp(20px,3.4vw,44px)] font-semibold tracking-tightest leading-[1.05] mb-2"
+                          className="text-[clamp(24px,3.4vw,44px)] font-semibold tracking-tightest leading-[1.05] mb-2"
                         >
                           {p.titulo}
                         </motion.h3>
@@ -198,7 +254,7 @@ export default function PilaresSection() {
                               transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
                               className="overflow-hidden"
                             >
-                              <span className="block text-[14px] md:text-[15px] text-ink2 leading-[1.55] max-w-2xl">
+                              <span className="block text-[15px] text-ink2 leading-[1.55] max-w-2xl">
                                 {p.bajada}
                               </span>
                             </motion.div>
@@ -214,7 +270,7 @@ export default function PilaresSection() {
                           color: isActive ? "#FFFFFF" : "#666666",
                         }}
                         transition={{ duration: 0.4 }}
-                        className="shrink-0 inline-flex items-center justify-center w-9 h-9 md:w-10 md:h-10 rounded-full border text-[16px] md:text-[18px] font-light"
+                        className="shrink-0 inline-flex items-center justify-center w-10 h-10 rounded-full border text-[18px] font-light"
                       >
                         +
                       </motion.span>

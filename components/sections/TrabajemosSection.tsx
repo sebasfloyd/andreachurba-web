@@ -84,23 +84,23 @@ export default function TrabajemosSection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-80px" }}
           transition={{ duration: 0.9 }}
-          className="mb-10 md:mb-14 flex flex-col md:flex-row md:items-end justify-between gap-6"
+          className="mb-10 md:mb-14"
         >
-          <div className="max-w-2xl">
+          <div className="max-w-3xl mb-8">
             <p className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-light/70 mb-6">
               <span className="w-1.5 h-1.5 rounded-full bg-light" />
               Trabajemos juntas
             </p>
-            <h2 className="text-light text-[clamp(34px,5vw,72px)] font-semibold tracking-tightest leading-[1.02] text-balance">
+            <h2 className="text-light text-[clamp(28px,5vw,72px)] font-semibold tracking-tightest leading-[1.02] text-balance">
               Tres mundos. Cuatro pasos. <span className="text-light/55">Una sola obsesión:</span> que el cambio quede.
             </h2>
           </div>
 
-          {/* Tabs */}
-          <div className="inline-flex p-1 rounded-full bg-bgCard border border-line shrink-0">
+          {/* Tabs — stack vertical en mobile, horizontal desktop */}
+          <div className="inline-flex flex-col sm:flex-row w-full sm:w-auto p-1 rounded-2xl sm:rounded-full bg-bgCard border border-line gap-1">
             <button
               onClick={() => setTab("mundos")}
-              className={`px-5 py-2.5 rounded-full text-[12.5px] font-bold uppercase tracking-widewide transition-all ${
+              className={`flex-1 sm:flex-initial px-5 py-3 rounded-xl sm:rounded-full text-[12.5px] font-bold uppercase tracking-widewide transition-all ${
                 tab === "mundos" ? "bg-light text-ink" : "text-light/65 hover:text-light"
               }`}
             >
@@ -108,7 +108,7 @@ export default function TrabajemosSection() {
             </button>
             <button
               onClick={() => setTab("proceso")}
-              className={`px-5 py-2.5 rounded-full text-[12.5px] font-bold uppercase tracking-widewide transition-all ${
+              className={`flex-1 sm:flex-initial px-5 py-3 rounded-xl sm:rounded-full text-[12.5px] font-bold uppercase tracking-widewide transition-all ${
                 tab === "proceso" ? "bg-light text-ink" : "text-light/65 hover:text-light"
               }`}
             >
@@ -125,7 +125,7 @@ export default function TrabajemosSection() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -24 }}
               transition={{ duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
-              className="grid lg:grid-cols-3 gap-5"
+              className="grid lg:grid-cols-3 gap-4 lg:gap-5"
             >
               {mundos.map((m, i) => {
                 const Icon = m.icon;
@@ -144,8 +144,8 @@ export default function TrabajemosSection() {
                       transition={{ duration: 6 + i, ease: "easeInOut", repeat: Infinity }}
                     />
 
-                    <div className="relative p-8 md:p-10 min-h-[520px] md:min-h-[560px] flex flex-col">
-                      <div className="flex items-start justify-between mb-8">
+                    <div className="relative p-7 md:p-10 min-h-[460px] md:min-h-[560px] flex flex-col">
+                      <div className="flex items-start justify-between mb-7">
                         <motion.span
                           whileHover={{ rotate: -10, scale: 1.05 }}
                           transition={{ duration: 0.4 }}
@@ -158,19 +158,19 @@ export default function TrabajemosSection() {
                         </span>
                       </div>
 
-                      <p className="text-[11.5px] font-bold uppercase tracking-widewide text-light/80 mb-3">
+                      <p className="text-[11.5px] font-bold uppercase tracking-widewide text-light/85 mb-3">
                         {m.intro}
                       </p>
-                      <h3 className="text-[clamp(26px,3vw,38px)] font-semibold leading-[1.02] tracking-tightest mb-5 text-balance">
+                      <h3 className="text-[clamp(24px,3vw,38px)] font-semibold leading-[1.02] tracking-tightest mb-5 text-balance">
                         {m.titulo}
                       </h3>
-                      <p className="text-[14.5px] text-light/85 leading-[1.6] mb-7">
+                      <p className="text-[14px] md:text-[14.5px] text-light/85 leading-[1.6] mb-6">
                         {m.bajada}
                       </p>
 
                       <ul className="mt-auto pt-6 border-t border-white/20 grid grid-cols-2 gap-x-3 gap-y-2 mb-6">
                         {m.ejemplos.map((e) => (
-                          <li key={e} className="text-[12.5px] font-medium text-light/80 flex items-center gap-2">
+                          <li key={e} className="text-[12.5px] font-medium text-light/85 flex items-center gap-2">
                             <span className="w-1 h-1 rounded-full bg-light/60 shrink-0" />
                             {e}
                           </li>
@@ -178,7 +178,7 @@ export default function TrabajemosSection() {
                       </ul>
 
                       <div className="flex items-center justify-between gap-3 flex-wrap">
-                        <div className="flex items-center gap-3 text-[10.5px] font-bold uppercase tracking-widewide text-light/65">
+                        <div className="flex items-center gap-3 text-[10px] font-bold uppercase tracking-widewide text-light/75">
                           <span className="inline-flex items-center gap-1.5"><Clock size={11} />{m.duracion}</span>
                           <span className="inline-flex items-center gap-1.5"><MapPin size={11} />{m.formato}</span>
                         </div>
@@ -202,7 +202,7 @@ export default function TrabajemosSection() {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -24 }}
               transition={{ duration: 0.5, ease: [0.16, 1, 0.3, 1] }}
-              className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5"
+              className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 lg:gap-5"
             >
               {pasos.map((paso, i) => {
                 const Icon = paso.icon;
@@ -212,7 +212,7 @@ export default function TrabajemosSection() {
                     initial={{ opacity: 0, y: 30 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: i * 0.1, ease: [0.16, 1, 0.3, 1] }}
-                    className="relative bg-bgCard hover:bg-bgSoft border border-line hover:border-violet/40 rounded-2xl p-7 md:p-8 transition-all duration-500 hover:-translate-y-1"
+                    className="relative bg-bgCard hover:bg-bgSoft border border-line hover:border-violet/40 rounded-2xl p-6 md:p-8 transition-all duration-500 hover:-translate-y-1"
                   >
                     {i < pasos.length - 1 && (
                       <div
@@ -224,10 +224,10 @@ export default function TrabajemosSection() {
 
                     <div className="relative">
                       <div className="flex items-start justify-between mb-6">
-                        <span className="inline-flex items-center justify-center w-14 h-14 rounded-2xl bg-violet text-light">
-                          <Icon size={24} strokeWidth={2.2} />
+                        <span className="inline-flex items-center justify-center w-12 h-12 md:w-14 md:h-14 rounded-2xl bg-violet text-light">
+                          <Icon size={22} strokeWidth={2.2} />
                         </span>
-                        <span className="text-light/20 text-[48px] font-semibold tracking-tightest leading-none">
+                        <span className="text-light/20 text-[40px] md:text-[48px] font-semibold tracking-tightest leading-none">
                           {paso.n}
                         </span>
                       </div>
@@ -235,10 +235,10 @@ export default function TrabajemosSection() {
                       <p className="text-[10.5px] font-bold uppercase tracking-widewide text-violet mb-2">
                         {paso.duracion}
                       </p>
-                      <h3 className="text-light text-[20px] md:text-[22px] font-semibold tracking-tightmid leading-[1.1] mb-3">
+                      <h3 className="text-light text-[18px] md:text-[22px] font-semibold tracking-tightmid leading-[1.1] mb-3">
                         {paso.titulo}
                       </h3>
-                      <p className="text-[14.5px] text-light/75 leading-[1.55]">
+                      <p className="text-[14px] md:text-[14.5px] text-light/75 leading-[1.55]">
                         {paso.desc}
                       </p>
                     </div>
@@ -254,11 +254,11 @@ export default function TrabajemosSection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-50px" }}
           transition={{ duration: 0.7 }}
-          className="mt-12 text-center"
+          className="mt-10 md:mt-12 text-center"
         >
           <a
             href="#contacto"
-            className="inline-flex items-center gap-2 px-8 py-4 rounded-full btn-pill-light text-[13.5px]"
+            className="inline-flex items-center gap-2 px-7 py-4 rounded-full btn-pill-light text-[13.5px]"
           >
             {tab === "mundos" ? "Empezar la conversación" : "Empezar por el paso 1"} →
           </a>

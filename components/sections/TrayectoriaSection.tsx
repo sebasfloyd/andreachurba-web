@@ -29,17 +29,20 @@ export default function TrayectoriaSection() {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true, margin: "-80px" }}
           transition={{ duration: 0.8 }}
-          className="flex items-end justify-between mb-8 md:mb-10"
+          className="flex flex-col md:flex-row md:items-end md:justify-between mb-8 md:mb-10 gap-4"
         >
           <div>
-            <h2 className="text-light text-[clamp(26px,3.4vw,40px)] font-semibold tracking-tightest leading-[1.05]">
+            <h2 className="text-light text-[clamp(24px,3.4vw,40px)] font-semibold tracking-tightest leading-[1.05] mb-2">
               Procesos que acompañé
-              <a href="#mundos" className="text-light/60 hover:text-light text-[15px] font-normal ml-2 align-middle">
-                Ver clientes →
-              </a>
             </h2>
+            <a
+              href="#mundos"
+              className="inline-flex items-center gap-1.5 text-[13px] font-medium text-light/70 hover:text-light transition-colors"
+            >
+              Ver todas las empresas →
+            </a>
           </div>
-          <div className="hidden md:flex items-center gap-2">
+          <div className="flex items-center gap-2 self-end md:self-auto">
             <button onClick={() => scroll(-1)} aria-label="Anterior" className="w-10 h-10 rounded-full btn-pill-outline-light inline-flex items-center justify-center">
               <ChevronLeft size={18} />
             </button>
@@ -69,9 +72,7 @@ export default function TrayectoriaSection() {
               <div
                 aria-hidden
                 className="absolute inset-0"
-                style={{
-                  background: "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.85) 100%)",
-                }}
+                style={{ background: "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.85) 100%)" }}
               />
               <div className="absolute inset-0 p-5 flex flex-col justify-end text-light">
                 <p className="text-[10.5px] font-bold uppercase tracking-widewide text-light/80 mb-3">

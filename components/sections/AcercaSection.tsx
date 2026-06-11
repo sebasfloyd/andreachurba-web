@@ -38,7 +38,6 @@ export default function AcercaSection() {
     <section id="sobre-mi" className="bg-bg relative">
       {/* Hero portrait con video AI */}
       <div className="relative h-[60vh] md:h-[70vh] min-h-[400px] overflow-hidden">
-        {/* Poster fallback */}
         <Image
           src="/images/andrea/andrea-anteojos.jpg"
           alt=""
@@ -49,7 +48,6 @@ export default function AcercaSection() {
           style={{ opacity: videoReady ? 0 : 1, transition: "opacity 0.8s ease-out" }}
         />
 
-        {/* AI Video Higgsfield — Andrea warm color portrait */}
         <video
           ref={videoRef}
           autoPlay
@@ -69,7 +67,7 @@ export default function AcercaSection() {
           aria-hidden
           className="absolute inset-0"
           style={{
-            background: "linear-gradient(180deg, transparent 30%, rgba(0,0,0,0.75) 80%, rgba(0,0,0,0.92) 100%)",
+            background: "linear-gradient(180deg, rgba(0,0,0,0.20) 0%, rgba(0,0,0,0.30) 40%, rgba(0,0,0,0.80) 85%, rgba(0,0,0,0.95) 100%)",
           }}
         />
         <div className="relative h-full container max-w-[1440px] flex flex-col items-center justify-end pb-12 md:pb-20 text-center">
@@ -78,7 +76,7 @@ export default function AcercaSection() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.8 }}
-            className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-light/85 mb-5"
+            className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-light mb-5 px-3 py-1.5 rounded-full bg-light/10 backdrop-blur border border-white/15"
           >
             <span className="w-1.5 h-1.5 rounded-full bg-orange" />
             Sobre mí
@@ -88,8 +86,8 @@ export default function AcercaSection() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.9, delay: 0.1 }}
-            className="text-light text-[clamp(30px,5.5vw,72px)] font-semibold tracking-tightest leading-[1.05] max-w-3xl mb-6"
-            style={{ textShadow: "0 2px 24px rgba(0,0,0,0.4)" }}
+            className="text-light text-[clamp(26px,5.5vw,72px)] font-semibold tracking-tightest leading-[1.05] max-w-3xl mb-5 md:mb-6"
+            style={{ textShadow: "0 2px 24px rgba(0,0,0,0.55)" }}
           >
             No vine a darte herramientas. Vine a que las uses.
           </motion.h2>
@@ -98,8 +96,8 @@ export default function AcercaSection() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.9, delay: 0.2 }}
-            className="text-light/85 text-[clamp(15px,1.4vw,18px)] leading-[1.5] max-w-xl mb-8"
-            style={{ textShadow: "0 2px 16px rgba(0,0,0,0.5)" }}
+            className="text-light/95 text-[14px] md:text-[clamp(15px,1.4vw,18px)] leading-[1.55] max-w-xl mb-7"
+            style={{ textShadow: "0 2px 16px rgba(0,0,0,0.6)" }}
           >
             Trabajo desde la psicología clínica aplicada al universo laboral. Lo que vemos juntas se prueba afuera: en la próxima reunión, en la conversación difícil, en la decisión que venís postergando.
           </motion.p>
@@ -117,9 +115,9 @@ export default function AcercaSection() {
       </div>
 
       {/* Bio + Credenciales + Timeline */}
-      <div className="bg-bg py-20 md:py-28 border-t border-line">
+      <div className="bg-bg py-16 md:py-28 border-t border-line">
         <div className="container max-w-[1320px]">
-          <div className="grid lg:grid-cols-12 gap-10 lg:gap-16 mb-20">
+          <div className="grid lg:grid-cols-12 gap-8 lg:gap-16 mb-16 md:mb-20">
             <motion.div
               initial={{ opacity: 0, x: -28 }}
               whileInView={{ opacity: 1, x: 0 }}
@@ -127,7 +125,7 @@ export default function AcercaSection() {
               transition={{ duration: 0.9 }}
               className="lg:col-span-5"
             >
-              <div className="relative aspect-[4/5] rounded-2xl overflow-hidden bg-bgCard sticky top-28">
+              <div className="relative aspect-[4/5] rounded-2xl overflow-hidden bg-bgCard lg:sticky lg:top-28">
                 <Image
                   src="/images/andrea/andrea-bw.jpg"
                   alt="Andrea Churba"
@@ -139,7 +137,7 @@ export default function AcercaSection() {
                   <p className="text-[10.5px] font-bold uppercase tracking-widewide text-light/85 mb-1">
                     Andrea Churba
                   </p>
-                  <p className="font-serif italic text-[clamp(18px,1.8vw,24px)] leading-tight" style={{ textShadow: "0 2px 12px rgba(0,0,0,0.5)" }}>
+                  <p className="font-serif italic text-[clamp(16px,1.8vw,24px)] leading-tight" style={{ textShadow: "0 2px 12px rgba(0,0,0,0.5)" }}>
                     Buenos Aires
                   </p>
                 </div>
@@ -153,15 +151,15 @@ export default function AcercaSection() {
               transition={{ duration: 0.9, delay: 0.15 }}
               className="lg:col-span-7 text-light"
             >
-              <p className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-light/70 mb-6">
+              <p className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-light/75 mb-5">
                 <span className="w-1.5 h-1.5 rounded-full bg-light" />
                 Bio
               </p>
-              <h3 className="text-light text-[clamp(28px,3.6vw,48px)] font-semibold tracking-tightest leading-[1.05] mb-8 text-balance">
+              <h3 className="text-light text-[clamp(24px,3.6vw,48px)] font-semibold tracking-tightest leading-[1.05] mb-7 text-balance">
                 Soy psicóloga. Acompaño procesos de cambio donde lo organizacional y lo personal se cruzan.
               </h3>
 
-              <div className="space-y-5 text-[16.5px] md:text-[17.5px] text-light/85 leading-[1.7] max-w-[640px]">
+              <div className="space-y-4 md:space-y-5 text-[15.5px] md:text-[17.5px] text-light/90 leading-[1.7] max-w-[640px]">
                 <p>
                   Hace más de veinte años trabajo en el universo laboral: cuando algo en cómo trabajamos —o en cómo nos pensamos trabajando— ya no nos calza.
                 </p>
@@ -176,9 +174,9 @@ export default function AcercaSection() {
                 </p>
               </div>
 
-              <ul className="grid sm:grid-cols-2 gap-x-6 gap-y-3 mt-10 pt-10 border-t border-line">
+              <ul className="grid sm:grid-cols-2 gap-x-6 gap-y-3 mt-8 md:mt-10 pt-8 md:pt-10 border-t border-line">
                 {credenciales.map((c) => (
-                  <li key={c} className="flex items-start gap-2.5 text-[14.5px] text-light/85">
+                  <li key={c} className="flex items-start gap-2.5 text-[14px] md:text-[14.5px] text-light/90">
                     <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-violet text-light shrink-0 mt-0.5">
                       <Check size={12} strokeWidth={3} />
                     </span>
@@ -189,7 +187,7 @@ export default function AcercaSection() {
             </motion.div>
           </div>
 
-          {/* Timeline */}
+          {/* Timeline con mejor contraste */}
           <motion.div
             initial={{ opacity: 0, y: 24 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -197,15 +195,15 @@ export default function AcercaSection() {
             transition={{ duration: 0.9 }}
             className="pt-12 border-t border-line"
           >
-            <p className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-light/70 mb-7">
+            <p className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-light/75 mb-7">
               <span className="w-1.5 h-1.5 rounded-full bg-light" />
               Trayectoria
             </p>
-            <h3 className="text-light text-[clamp(28px,3.5vw,44px)] font-semibold tracking-tightest leading-[1.05] mb-10 max-w-3xl">
+            <h3 className="text-light text-[clamp(24px,3.5vw,44px)] font-semibold tracking-tightest leading-[1.05] mb-10 max-w-3xl">
               Hitos del recorrido.
             </h3>
 
-            <ol className="relative space-y-0 border-l border-line ml-3">
+            <ol className="relative space-y-0 border-l-2 border-violet/30 ml-3">
               {timeline.map((t, i) => (
                 <motion.li
                   key={i}
@@ -213,13 +211,13 @@ export default function AcercaSection() {
                   whileInView={{ opacity: 1, x: 0 }}
                   viewport={{ once: true, margin: "-30px" }}
                   transition={{ duration: 0.6, delay: i * 0.08 }}
-                  className="relative pl-8 md:pl-10 pb-8 last:pb-0 group"
+                  className="relative pl-7 md:pl-10 pb-7 md:pb-8 last:pb-0 group"
                 >
-                  <span className="absolute left-0 top-1 -translate-x-1/2 w-3 h-3 rounded-full bg-bg border-2 border-violet group-hover:bg-violet transition-colors" />
-                  <p className="text-[10.5px] font-bold uppercase tracking-widewide text-violetSoft mb-1.5">
+                  <span className="absolute left-0 top-1.5 -translate-x-1/2 w-3.5 h-3.5 rounded-full bg-violet border-2 border-bg group-hover:scale-125 transition-transform" />
+                  <p className="text-[10.5px] font-bold uppercase tracking-widewide text-violetSoft mb-2">
                     {t.ano}
                   </p>
-                  <p className="text-[15.5px] md:text-[17px] text-light/85 leading-[1.55] max-w-2xl">
+                  <p className="text-[15px] md:text-[17px] text-light leading-[1.55] max-w-2xl">
                     {t.evento}
                   </p>
                 </motion.li>
