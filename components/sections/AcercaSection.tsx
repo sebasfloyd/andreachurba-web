@@ -99,7 +99,7 @@ export default function AcercaSection() {
             className="text-light/95 text-[14px] md:text-[clamp(15px,1.4vw,18px)] leading-[1.55] max-w-xl mb-7"
             style={{ textShadow: "0 2px 16px rgba(0,0,0,0.6)" }}
           >
-            Trabajo desde la psicología clínica aplicada al universo laboral. Lo que vemos juntas se prueba afuera: en la próxima reunión, en la conversación difícil, en la decisión que venís postergando.
+            Trabajo desde la psicología clínica aplicada al universo laboral. Lo que vemos juntos se prueba afuera: en la próxima reunión, en la conversación difícil, en la decisión que venís postergando.
           </motion.p>
           <motion.a
             initial={{ opacity: 0, y: 12 }}
@@ -109,7 +109,7 @@ export default function AcercaSection() {
             href="#trabajemos"
             className="inline-flex items-center px-6 py-3 rounded-full btn-pill-light text-[13.5px]"
           >
-            Trabajemos juntas
+            Trabajemos juntos
           </motion.a>
         </div>
       </div>

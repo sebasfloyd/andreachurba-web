@@ -106,7 +106,7 @@ export default function HeroSection() {
                   href="#contacto"
                   className="inline-flex items-center justify-center px-6 py-3 rounded-full btn-pill-light text-[13.5px]"
                 >
-                  Trabajemos juntas
+                  Trabajemos juntos
                 </a>
                 <a
                   href="#charlas"

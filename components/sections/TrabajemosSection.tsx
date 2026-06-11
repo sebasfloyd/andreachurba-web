@@ -89,7 +89,7 @@ export default function TrabajemosSection() {
           <div className="max-w-3xl mb-8">
             <p className="inline-flex items-center gap-2 text-[10.5px] font-bold uppercase tracking-widewide text-light/70 mb-6">
               <span className="w-1.5 h-1.5 rounded-full bg-light" />
-              Trabajemos juntas
+              Trabajemos juntos
             </p>
             <h2 className="text-light text-[clamp(28px,5vw,72px)] font-semibold tracking-tightest leading-[1.02] text-balance">
               Tres mundos. Cuatro pasos. <span className="text-light/55">Una sola obsesión:</span> que el cambio quede.

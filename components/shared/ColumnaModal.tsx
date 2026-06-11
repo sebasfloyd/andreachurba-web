@@ -227,7 +227,7 @@ export default function ColumnaModalProvider({ children }: { children: ReactNode
                     onClick={() => setCol(null)}
                     className="inline-flex items-center justify-center gap-2 px-5 py-4 rounded-2xl bg-violet text-light hover:bg-violetDeep text-[13px] font-semibold transition-colors"
                   >
-                    Trabajemos juntas
+                    Trabajemos juntos
                     <ArrowUpRight size={14} />
                   </a>
                   <a
