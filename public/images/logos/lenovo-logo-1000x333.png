@@ -1,0 +1,882 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131473874-1');
+</script>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10.0, user-scalable=yes">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Página no encontrada - Andrea Churba</title>
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:title" content="Página no encontrada - Andrea Churba" />
+	<meta property="og:site_name" content="Andrea Churba" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://www.andreachurba.com.ar/#website","url":"http://www.andreachurba.com.ar/","name":"Andrea Churba","description":"","publisher":{"@id":"http://www.andreachurba.com.ar/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://www.andreachurba.com.ar/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es-AR"},{"@type":"Organization","@id":"http://www.andreachurba.com.ar/#organization","name":"Andrea Churba","url":"http://www.andreachurba.com.ar/","logo":{"@type":"ImageObject","inLanguage":"es-AR","@id":"http://www.andreachurba.com.ar/#/schema/logo/image/","url":"http://www.andreachurba.com.ar/wp-content/uploads/2018/10/logo.png","contentUrl":"http://www.andreachurba.com.ar/wp-content/uploads/2018/10/logo.png","width":500,"height":152,"caption":"Andrea Churba"},"image":{"@id":"http://www.andreachurba.com.ar/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//w.sharethis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Andrea Churba &raquo; Feed" href="http://www.andreachurba.com.ar/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Andrea Churba &raquo; RSS de los comentarios" href="http://www.andreachurba.com.ar/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.andreachurba.com.ar\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.8"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='validate-engine-css-css' href='http://www.andreachurba.com.ar/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='sbi_styles-css' href='http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.2.8' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='http://www.andreachurba.com.ar/wp-includes/css/dist/block-library/style.min.css?ver=6.4.8' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='http://www.andreachurba.com.ar/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ctf_styles-css' href='http://www.andreachurba.com.ar/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=2.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gdc-css' href='http://www.andreachurba.com.ar/wp-content/plugins/grid-shortcodes/css/gdc_custom_style.css?ver=6.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css' href='http://www.andreachurba.com.ar/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.min.css?ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='http://www.andreachurba.com.ar/wp-content/themes/customify/assets/fonts/font-awesome/css/font-awesome.min.css?ver=5.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='customify-google-font-css' href='//fonts.googleapis.com/css?family=Montserrat+Alternates%3A100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CMontserrat%3A100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CVarela+Round%3A400&#038;ver=0.2.8' type='text/css' media='all' />
+<link rel='stylesheet' id='customify-style-css' href='http://www.andreachurba.com.ar/wp-content/themes/customify/style.min.css?ver=0.2.8' type='text/css' media='all' />
+<style id='customify-style-inline-css' type='text/css'>
+.customify-container, .layout-contained, .site-framed .site, .site-boxed .site { max-width: 1280px; } .main-layout-content .entry-content > .alignwide { width: calc( 1280px - 4em ); max-width: 100vw;  }#blog-posts .entry-inner  {border-style: dotted;border-top-width: 0px;border-right-width: 0px;border-bottom-width: 2px;border-left-width: 0px;border-color: rgba(40,1,0,0.15);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;} #blog-posts .entry-inner:hover  {background-color: rgba(40,1,0,0.1);} #blog-posts .posts-layout .entry-media {border-radius: 0px;}#blog-posts .entry-readmore a {font-family: "Montserrat Alternates";font-weight: 500;}#blog-posts .entry-readmore a  {color: #c22047; text-decoration-color: #c22047;background-color: #f8ac23;border-style: none;border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-right-radius: 20px;border-bottom-left-radius: 20px;} #blog-posts .entry-readmore a:hover  {color: #f8ac23; text-decoration-color: #f8ac23;background-color: #c22047;} .header-top .header--row-inner,.button,button,input[type="button"],input[type="reset"],input[type="submit"],.pagination .nav-links > *:hover,.pagination .nav-links span,.nav-menu-desktop.style-full-height .primary-menu-ul > li.current-menu-item > a, .nav-menu-desktop.style-full-height .primary-menu-ul > li.current-menu-ancestor > a,.nav-menu-desktop.style-full-height .primary-menu-ul > li > a:hover,.posts-layout .readmore-button:hover{    background-color: #f8ac23;}.posts-layout .readmore-button {color: #f8ac23;}.pagination .nav-links > *:hover,.pagination .nav-links span,.entry-single .tags-links a:hover, .entry-single .cat-links a:hover,.posts-layout .readmore-button,.posts-layout .readmore-button:hover{    border-color: #f8ac23;}.customify-builder-btn{    background-color: #c22047;}body{    color: #020202;}abbr, acronym {    border-bottom-color: #020202;}a                   {                    color: #c22047;}a:hover, a:focus,.link-meta:hover, .link-meta a:hover{    color: #851b45;}h2 + h3, .comments-area h2 + .comments-title, .h2 + h3, .comments-area .h2 + .comments-title, .page-breadcrumb {    border-top-color: #e8e8e8;}blockquote,.site-content .widget-area .menu li.current-menu-item > a:before{    border-left-color: #e8e8e8;}@media screen and (min-width: 64em) {    .comment-list .children li.comment {        border-left-color: #e8e8e8;    }    .comment-list .children li.comment:after {        background-color: #e8e8e8;    }}.page-titlebar, .page-breadcrumb,.posts-layout .entry-inner {    border-bottom-color: #e8e8e8;}.header-search-form .search-field,.entry-content .page-links a,.header-search-modal,.pagination .nav-links > *,.entry-footer .tags-links a, .entry-footer .cat-links a,.search .content-area article,.site-content .widget-area .menu li.current-menu-item > a,.posts-layout .entry-inner,.post-navigation .nav-links,article.comment .comment-meta,.widget-area .widget_pages li a, .widget-area .widget_categories li a, .widget-area .widget_archive li a, .widget-area .widget_meta li a, .widget-area .widget_nav_menu li a, .widget-area .widget_product_categories li a, .widget-area .widget_recent_entries li a, .widget-area .widget_rss li a,.widget-area .widget_recent_comments li{    border-color: #e8e8e8;}.header-search-modal::before {    border-top-color: #e8e8e8;    border-left-color: #e8e8e8;}@media screen and (min-width: 48em) {    .content-sidebar.sidebar_vertical_border .content-area {        border-right-color: #e8e8e8;    }    .sidebar-content.sidebar_vertical_border .content-area {        border-left-color: #e8e8e8;    }    .sidebar-sidebar-content.sidebar_vertical_border .sidebar-primary {        border-right-color: #e8e8e8;    }    .sidebar-sidebar-content.sidebar_vertical_border .sidebar-secondary {        border-right-color: #e8e8e8;    }    .content-sidebar-sidebar.sidebar_vertical_border .sidebar-primary {        border-left-color: #e8e8e8;    }    .content-sidebar-sidebar.sidebar_vertical_border .sidebar-secondary {        border-left-color: #e8e8e8;    }    .sidebar-content-sidebar.sidebar_vertical_border .content-area {        border-left-color: #e8e8e8;        border-right-color: #e8e8e8;    }    .sidebar-content-sidebar.sidebar_vertical_border .content-area {        border-left-color: #e8e8e8;        border-right-color: #e8e8e8;    }}article.comment .comment-post-author {background: #e53f45;}.pagination .nav-links > *,.link-meta, .link-meta a,.color-meta,.entry-single .tags-links:before, .entry-single .cats-links:before{    color: #e53f45;}h1, h2, h3, h4, h5, h6 { color: #e53f45;}.widget-title { color: #6691dd;}body {font-family: "Montserrat";font-style: normal;font-weight: normal;text-decoration: none;font-size: 16px;line-height: 26px;letter-spacing: -0.1px;}h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {font-family: "Varela Round";font-weight: normal;}.site-branding .site-title, .site-branding .site-title a {font-family: "Montserrat Alternates";font-weight: 500;}.entry-content h1, .wp-block h1, .entry-single .entry-title {font-family: "Varela Round";font-weight: normal;}.entry-content h4, .wp-block h4 {font-family: "Varela Round";font-weight: normal;font-size: 20px;line-height: 20px;}.entry-content h5, .wp-block h5 {font-family: "Varela Round";font-weight: normal;font-size: 18px;line-height: 18px;}.entry-content h6, .wp-block h6 {font-family: "Varela Round";font-weight: normal;font-size: 16px;line-height: 16px;}#page-cover {background-repeat: repeat;}.header--row:not(.header--transparent).header-top .header--row-inner  {background-color: #851b45;border-top-width: 0px;border-right-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-color: #841a41;border-top-left-radius: 1px;border-top-right-radius: 1px;border-bottom-right-radius: 1px;border-bottom-left-radius: 1px;} .header--row:not(.header--transparent).header-main .header--row-inner  {background-color: #851b45;border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-color: #851b45;} .header--row:not(.header--transparent).header-bottom .header--row-inner  {background-color: #851b45;border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;} #header-menu-sidebar-bg  {color: #ffffff; text-decoration-color: #ffffff;} #header-menu-sidebar-bg .menu li a, #header-menu-sidebar-bg .item--html a, #header-menu-sidebar-bg .cart-item-link, #header-menu-sidebar-bg .nav-toggle-icon  {color: #ffffff; text-decoration-color: #ffffff;} #header-menu-sidebar-bg:before  {background-color: #851b45;} #header-menu-sidebar-bg .menu li a:hover, #header-menu-sidebar-bg .item--html a:hover, #header-menu-sidebar-bg .cart-item-link:hover, #header-menu-sidebar-bg li.open-sub .nav-toggle-icon  {color: #f8ac23; text-decoration-color: #f8ac23;} .sub-menu .li-duplicator {display:none !important;}.builder-header-html-item.item--html p, .builder-header-html-item.item--html {font-family: "Varela Round";font-style: normal;font-weight: normal;font-size: 13px;line-height: 13px;letter-spacing: -0.5px;}.header--row:not(.header--transparent) .menu-mobile-toggle {color: #f8ac23;}.header--row:not(.header--transparent) .menu-mobile-toggle:hover {color: #ef7614;}.header-search_icon-item .header-search-modal  {border-style: solid;} .header-search_icon-item .search-field  {border-style: solid;} .header--row .header-search_box-item .search-form-fields  {border-style: solid;} .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li > a  {color: #fcb94c; text-decoration-color: #fcb94c;border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-right-radius: 20px;border-bottom-left-radius: 20px;} .header--row:not(.header--transparent) .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li > a:hover, .header--row:not(.header--transparent) .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li.current-menu-item > a, .header--row:not(.header--transparent) .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li.current-menu-ancestor > a, .header--row:not(.header--transparent) .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li.current-menu-parent > a  {color: #fcb94c; text-decoration-color: #fcb94c;background-color: #c22047;border-style: none;border-top-width: 2px;border-right-width: 2px;border-bottom-width: 2px;border-left-width: 2px;border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-right-radius: 20px;border-bottom-left-radius: 20px;} .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li > a {font-family: "Montserrat Alternates";font-weight: 700;text-decoration: none;text-transform: uppercase;font-size: 14px;line-height: 10px;letter-spacing: -0.4px;}.header-social-icons.customify-builder-social-icons.color-custom li a {background-color: #c22047;}.header-social-icons.customify-builder-social-icons.color-custom li a {color: #ffffff;}.header-social-icons.customify-builder-social-icons.color-custom li a:hover {background-color: #f8ac23;}.header-social-icons.customify-builder-social-icons.color-custom li a:hover {color: #ffffff;}.header-social-icons.customify-builder-social-icons li a {border-radius: 40px;}#cb-row--footer-main .footer--row-inner {background-color: rgba(239,233,232,0.85)}#cb-row--footer-bottom .footer--row-inner {background-color: #851b45}.builder-item--footer_copyright, .builder-item--footer_copyright p {font-size: 12px;line-height: 12px;letter-spacing: 1px;}.footer-social-icons.customify-builder-social-icons.color-custom li a {background-color: #8fb3f2;}.footer-social-icons.customify-builder-social-icons.color-custom li a {color: #f9c054;}.footer-social-icons.customify-builder-social-icons.color-custom li a:hover {background-color: #ff3688;}.footer-social-icons.customify-builder-social-icons.color-custom li a:hover {color: #f9c054;}/* CSS for desktop */#blog-posts .entry-inner  {margin-top: -41px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;padding-top: 30px;padding-right: 30px;padding-bottom: 20px;padding-left: 20px;} #blog-posts .posts-layout .entry .entry-media {padding-top: 38%;}#blog-posts .posts-layout .entry-media, #blog-posts .posts-layout.layout--blog_classic .entry-media {flex-basis: 26%; width: 26%;}#blog-posts .entry-readmore  {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;} #blog-posts .entry-readmore a  {padding-top: 12px;padding-right: 12px;padding-bottom: 12px;padding-left: 12px;} #page-cover {text-align: left;}#page-cover .page-cover-inner {min-height: 300px;}#page-titlebar {text-align: left;}.header--row.header-top .customify-grid, .header--row.header-top .style-full-height .primary-menu-ul > li > a {min-height: 83px;}.header--row.header-main .customify-grid, .header--row.header-main .style-full-height .primary-menu-ul > li > a {min-height: 30px;}.header--row.header-bottom .customify-grid, .header--row.header-bottom .style-full-height .primary-menu-ul > li > a {min-height: 35px;}.header--row .builder-item--html, .builder-item.builder-item--group .item--inner.builder-item--html {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}.header--row .builder-first--html {text-align: right;}.site-header .site-branding img { max-width: 242px; } .site-header .cb-row--mobile .site-branding img { width: 242px; }.header--row .builder-item--logo, .builder-item.builder-item--group .item--inner.builder-item--logo {margin-top: 20px;margin-right: 0px;margin-bottom: 10px;margin-left: 0px;}.header--row .builder-first--logo {text-align: left;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header--row .header-search_box-item .search-submit{margin-left: -40px;} .header--row .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;}.builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li  {margin-top: 4px;margin-right: 4px;margin-bottom: 4px;margin-left: 4px;} .builder-item--primary-menu .nav-menu-desktop .primary-menu-ul > li > a  {padding-top: 10px;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;} .header--row .builder-item--primary-menu, .builder-item.builder-item--group .item--inner.builder-item--primary-menu {margin-top: -4px;margin-right: 0px;margin-bottom: 14px;margin-left: -12px;}.header--row .builder-first--primary-menu {text-align: right;}.header-social-icons.customify-builder-social-icons li a { font-size: 14px; }.header-social-icons.customify-builder-social-icons li a {padding: 0.4em;}.header-social-icons.customify-builder-social-icons li {margin-left: 8px; margin-right: 8px;}.header--row .builder-item--social-icons, .builder-item.builder-item--group .item--inner.builder-item--social-icons {margin-top: 0px;margin-right: 4px;margin-bottom: 40px;margin-left: 0px;}.header--row .builder-first--social-icons {text-align: right;}.footer--row .builder-first--footer-1 {text-align: left;}.footer--row .builder-item--footer-4, .builder-item.builder-item--group .item--inner.builder-item--footer-4 {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}.footer--row .builder-first--footer-4 {text-align: left;}.footer--row .builder-first--footer_copyright {text-align: center;}.footer-social-icons.customify-builder-social-icons li a { font-size: 17px; }.footer-social-icons.customify-builder-social-icons li a {padding: 0.7em;}.footer-social-icons.customify-builder-social-icons li {margin-left: 5px; margin-right: 5px;}.footer--row .builder-first--footer-social-icons {text-align: right;}/* CSS for tablet */@media screen and (max-width: 1024px) { #blog-posts .posts-layout .entry .entry-media {padding-top: 48%;}#blog-posts .posts-layout .entry-media, #blog-posts .posts-layout.layout--blog_classic .entry-media {flex-basis: 35%; width: 35%;}#page-cover .page-cover-inner {min-height: 250px;}.header--row.header-main .customify-grid, .header--row.header-main .style-full-height .primary-menu-ul > li > a {min-height: 113px;}.site-header .site-branding img { max-width: 295px; } .site-header .cb-row--mobile .site-branding img { width: 295px; }.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header--row .header-search_box-item .search-submit{margin-left: -40px;} .header--row .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;}.footer--row .builder-item--footer-4, .builder-item.builder-item--group .item--inner.builder-item--footer-4 {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}.footer--row .builder-first--footer-4 {text-align: left;} }/* CSS for mobile */@media screen and (max-width: 568px) { #blog-posts .posts-layout .entry .entry-media {padding-top: 149%;}#page-cover {text-align: left;}#page-cover .page-cover-inner {min-height: 122px;}#page-titlebar {text-align: left;}.header--row.header-top .customify-grid, .header--row.header-top .style-full-height .primary-menu-ul > li > a {min-height: 35px;}.header--row.header-main .customify-grid, .header--row.header-main .style-full-height .primary-menu-ul > li > a {min-height: 88px;}.header--row .builder-item--html, .builder-item.builder-item--group .item--inner.builder-item--html {margin-top: 0px;margin-right: 0px;margin-bottom: 20px;margin-left: 0px;}.header--row .builder-first--html {text-align: right;}.site-header .site-branding img { max-width: 315px; } .site-header .cb-row--mobile .site-branding img { width: 315px; }.header--row .builder-item--logo, .builder-item.builder-item--group .item--inner.builder-item--logo {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}.header--row .builder-first--logo {text-align: left;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header--row .header-search_box-item .search-submit{margin-left: -40px;} .header--row .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;}.header--row .builder-first--social-icons {text-align: left;}.footer--row .builder-item--footer-4, .builder-item.builder-item--group .item--inner.builder-item--footer-4 {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}.footer--row .builder-first--footer-4 {text-align: left;}.footer--row .builder-item--footer_copyright, .builder-item.builder-item--group .item--inner.builder-item--footer_copyright {margin-top: 12px;margin-right: 12px;margin-bottom: 12px;margin-left: 12px;}.footer--row .builder-first--footer_copyright {text-align: left;}.footer--row .builder-item--footer-social-icons, .builder-item.builder-item--group .item--inner.builder-item--footer-social-icons {margin-top: 12px;margin-right: 12px;margin-bottom: 12px;margin-left: 12px;}.footer--row .builder-first--footer-social-icons {text-align: right;} }
+</style>
+<link rel='stylesheet' id='__EPYT__style-css' href='http://www.andreachurba.com.ar/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.2.1' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 50%;
+                }
+                
+                         @media (min-width:0px) and (max-width: 767px) {
+                            .epyt-gallery-rowbreak {
+                                display: none;
+                            }
+                            .epyt-gallery-allthumbs[class*="epyt-cols"] .epyt-gallery-thumb {
+                                width: 100% !important;
+                            }
+                          }
+</style>
+<!--n2css--><script type="text/javascript" src="http://www.andreachurba.com.ar/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/flowpaper-lite-pdf-flipbook/assets/lity/lity.min.js" id="lity-js-js"></script>
+<script id='st_insights_js' type="text/javascript" src="http://w.sharethis.com/button/st_insights.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&amp;product=simpleshare&amp;ver=8.4.12" id="ssba-sharethis-js"></script>
+<script type="text/javascript" id="__ytprefs__-js-extra">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/www.andreachurba.com.ar\/wp-admin\/admin-ajax.php","security":"2740d5f660","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/www.andreachurba.com.ar\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"http:\/\/www.andreachurba.com.ar\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"14.2.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","maxres_facade":"eager","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.2.1" id="__ytprefs__-js"></script>
+<link rel="https://api.w.org/" href="http://www.andreachurba.com.ar/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.andreachurba.com.ar/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.8" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131473874-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131473874-2');
+</script><script type='text/javascript'>
+/* <![CDATA[ */
+var VPData = {"version":"3.2.3","pro":false,"__":{"couldnt_retrieve_vp":"Couldn't retrieve Visual Portfolio ID.","pswp_close":"Close (Esc)","pswp_share":"Share","pswp_fs":"Toggle fullscreen","pswp_zoom":"Zoom in\/out","pswp_prev":"Previous (arrow left)","pswp_next":"Next (arrow right)","pswp_share_fb":"Share on Facebook","pswp_share_tw":"Tweet","pswp_share_pin":"Pin it","fancybox_close":"Close","fancybox_next":"Next","fancybox_prev":"Previous","fancybox_error":"The requested content cannot be loaded. <br \/> Please try again later.","fancybox_play_start":"Start slideshow","fancybox_play_stop":"Pause slideshow","fancybox_full_screen":"Full screen","fancybox_thumbs":"Thumbnails","fancybox_download":"Download","fancybox_share":"Share","fancybox_zoom":"Zoom"},"settingsPopupGallery":{"enable_on_wordpress_images":false,"vendor":"fancybox","deep_linking":false,"deep_linking_url_to_share_images":false,"show_arrows":true,"show_counter":true,"show_zoom_button":true,"show_fullscreen_button":true,"show_share_button":true,"show_close_button":true,"show_thumbs":true,"show_download_button":false,"show_slideshow":false,"click_to_zoom":true,"restore_focus":true},"screenSizes":[320,576,768,992,1200]};
+/* ]]> */
+</script>
+		<noscript>
+			<style type="text/css">
+				.vp-portfolio__preloader-wrap{display:none}.vp-portfolio__filter-wrap,.vp-portfolio__items-wrap,.vp-portfolio__pagination-wrap,.vp-portfolio__sort-wrap{opacity:1;visibility:visible}.vp-portfolio__item .vp-portfolio__item-img noscript+img,.vp-portfolio__thumbnails-wrap{display:none}
+			</style>
+		</noscript>
+				<style type="text/css">
+			/* If html does not have either class, do not show lazy loaded images. */
+			html:not(.vp-lazyload-enabled):not(.js) .vp-lazyload {
+				display: none;
+			}
+		</style>
+		<script>
+			document.documentElement.classList.add(
+				'vp-lazyload-enabled'
+			);
+		</script>
+		<link rel="icon" href="http://www.andreachurba.com.ar/wp-content/uploads/2020/07/cropped-favicon-AC-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.andreachurba.com.ar/wp-content/uploads/2020/07/cropped-favicon-AC-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://www.andreachurba.com.ar/wp-content/uploads/2020/07/cropped-favicon-AC-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.andreachurba.com.ar/wp-content/uploads/2020/07/cropped-favicon-AC-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.button, button:hover, input[type="button"], input[type="button"]:hover, input[type="submit"], input[type="submit"]:hover, input#searchsubmit, .pagination span.current, .pagination span.current:focus, .pagination span.current:hover, .btn.btn-primary, .btn.btn-primary:link, .btn.btn-primary:hover, .btn.btn-primary:focus, .btn.btn-primary:active, .btn.btn-primary.active, .btn.btn-primary.active:focus, .btn.btn-primary.active:hover, .btn.btn-primary:active:hover, .btn.btn-primary:active:focus, .btn.btn-primary:active:hover, .hestia-sidebar-open.btn.btn-rose, .hestia-sidebar-close.btn.btn-rose, .hestia-sidebar-open.btn.btn-rose:hover, .hestia-sidebar-close.btn.btn-rose:hover, .hestia-sidebar-open.btn.btn-rose:focus, .hestia-sidebar-close.btn.btn-rose:focus, .label.label-primary, .hestia-work .portfolio-item:nth-child(6n+1) .label, .nav-cart .nav-cart-content .widget .buttons .button {
+border-radius: 20px;
+    background-color: #c22047;
+color: #ffffff;
+	font-weight: 700;
+}
+.tag-cloud-link {
+        background-color: #ffffff;
+        border: 1px solid #c22047;
+border-radius: 20px;
+    padding: 8px;
+	margin: 8px;
+line-height: 40px;
+font-family: "Montserrat Alternates";
+font-weight: 600; }
+.entry-single .cat-links a, .entry-single .tags-links a {
+    padding: 3px 8px 4px;
+    margin: 0 6px 7px 0;
+    border: 0px solid #caccce;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 13px;
+    border-radius: 20px;
+    background-color: #d2d2d2;
+    font-weight: 600;
+}
+#site-footer a {
+    font-size: 13px !important;
+    border-radius: 20px;
+    border: 0px;
+}
+.button, .button, input[type="submit"], input[type="button"], .btn.btn-primary, .hestia-sidebar-open.btn.btn-rose, .hestia-sidebar-close.btn.btn-rose {
+
+    -webkit-box-shadow: 0 2px 2px 0 rgba(233,30,99,0.14),0 3px 1px -2px rgba(233,30,99,0.2),0 1px 5px 0 rgba(233,30,99,0.12);
+    box-shadow: 0 2px 2px 0 rgba(233,30,99,0.14),0 3px 1px -2px rgba(233,30,99,0.2),0 1px 5px 0 rgba(233,30,99,0.12);
+
+}
+.vp-id-127 .vp-portfolio__items-style-fly .vp-portfolio__item-overlay {
+    color: #ffffff;
+    text-decoration: none;
+}
+.vp-portfolio__items-style-emerge .vp-portfolio__item-meta-excerpt {
+    opacity: .8;
+    font-size: 13px;
+    line-height: 16px;
+}
+.widget-area .widget a:not(.wc-forward), .page-breadcrumb, .page-breadcrumb-list li a {
+    color: #666;
+}
+.widget-area .widget a:not(.wc-forward):hover {
+    color: #f8ac23;
+}
+.widget-area .widget .sidebar-search-form .search-field {
+    width: 100%;
+    box-shadow: 0 2px 3px rgba(127,127,127,.11);
+    border-radius: 20px;
+    display: block;
+    background: #fff;
+}
+.titulohome {
+border-top: 2px dotted #e6e6e6;
+padding-top: 20px; padding-bottom: 20px; font-family: "Montserrat Alternates"; margin-top: 30px;
+font-weight: 700;font-size: 24px; text-align: center; color: #f9c054;
+text-transform: uppercase;}
+.footer-bottom .dark-mode {
+    background: #c22047;
+}
+.footer-main .dark-mode {
+    background: #c2204733;
+}
+.widget-title {
+    color: #c22047;font-family: "Montserrat Alternates"; font-weight: 600;border-bottom: 2px dotted #c2204733;padding-bottom: 10px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6  {font-weight: 500;letter-spacing: -0.9px;color: #ef7614;
+}
+
+.tagcloud a {
+    border: 0px solid currentColor;
+    border-radius: 20px;
+    display: inline-block;
+    font-size: .875em !important;
+    margin-bottom: 5px;
+    padding: 1px 10px 1px;
+    color: #ffffff;
+}.page-titlebar .titlebar-title {
+    font-size: 24px;
+    font-family: "Varela Round";
+    color: #c22047;letter-spacing: -0.1px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #ef7614;
+} 
+
+h5   { color: #ff6836;
+}
+.page-titlebar {
+    padding: 12px 0 12px;
+    border-bottom: 2px dotted #eaecec;
+}.pagination .nav-links > *, .link-meta, .link-meta a, .color-meta, .entry-single .tags-links::before, .entry-single .cats-links::before {
+    color: #851b45;
+    font-weight: 600;
+}.entry-single .tags-links::before {
+    color: #f9c054; } 
+.tags-links{
+    padding-bottom: 10px;
+border-bottom: 2px dotted #eaecec; text-align: right;} 
+
+blockquote {
+    letter-spacing: 0.4px; padding: 0 1.41575em;
+    margin: 1.4em 0em;
+    border-left: 2px dashed #f9c054;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1.4em;
+	color: #6dc2b8;
+
+}.pagination .nav-links > *, .link-meta, .link-meta a, .color-meta, .entry-single .tags-links::before, .entry-single .cats-links::before {
+    border-radius: 20px;
+}.pagination .nav-links span {border:0px;}
+.tagcloud a {
+
+    border: 1px solid #c2204733;
+    border-radius: 20px;
+    display: inline-block;
+    font-size: .875em !important;
+    margin-bottom: 5px;
+    padding: 1px 10px 1px;
+    color: #6dc2b8;}
+.entry-single ul {
+    margin: 0 0 1em 0;
+    padding: 0 0 0 1em; /* make space for li's :before */
+    list-style: none;
+}
+.entry-single li {
+    position: relative;
+    padding-left: 0.4em; /* text distance to icon */
+}
+.p li:before {
+    font-family: FontAwesome;
+    content: "\f00c";
+    position: absolute;
+    left: -1em;
+    top: -0.3em;
+    color: #fcb94c;
+}
+
+
+.bullet ul {
+    margin: 0 0 1em 0;
+    padding: 0 0 0 1em; /* make space for li's :before */
+    list-style: none;
+}
+.bullet li {
+    position: relative;
+    padding-left: 0.4em; /* text distance to icon */
+}
+.bullet li:before {
+        font-family: FontAwesome;
+        content: "\f00c";
+        position: absolute;
+        left: -1em; /* same as ul padding-left */
+        top: -0.3em; /* depends on character, maybe use padding-top instead */
+	color: #f8ac23;
+      
+}.vp-pagination__style-default .vp-pagination__item > * {
+    min-width: 40px;
+    padding: 8px 16px;
+    line-height: 1.4;
+    color: inherit;
+    text-decoration: none;
+    background-color: #fff;
+    border: 2px solid #eaeaea;
+    -webkit-transition: .2s border-color, .2s background-color, .2s color;
+    transition: .2s border-color, .2s background-color, .2s color;
+    will-change: border-color, background-color, color;
+border-radius: 20px;}
+
+.header--row .dark-mode {
+    color: rgba(85,85,85,1);
+}.vp-portfolio__items-style-default .vp-portfolio__item-meta {
+    position: relative;
+    padding: 10px 15px;
+    text-decoration: none;
+    background-color: #ececec;
+}.entry-content h5 {
+    font-family: "Varela Round";
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+}.vp-portfolio, .vp-filter__item * {
+border-radius: 20px; color: #f8ac23;
+}
+.skin.flat {
+    vertical-align: top;
+    border-radius: 10px;
+
+}.item .layer-media {
+    overflow: hidden;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+.layer-content {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+background-image: url("/new2018/wp-content/uploads/2018/10/fondo-destacados2-1.jpg")
+
+}.footer--row-inner.dark-mode {
+font-family: "Varela Round";
+	font-size: 12px;
+    line-height: 18px;
+}
+body {
+    color: #02020282;
+}
+.wp-tiles-tile-with-image .wp-tiles-byline-content {
+        font-family: "Varela Round";
+padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    font-size: 14px;
+    font-weight: normal;
+
+}
+.entry-content h4 {
+
+    font-family: "Varela Round";
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+}
+.footer--row-inner.dark-mode {
+    color: #8a8a8a;
+}
+.footer--row-inner.dark-mode {
+    font-family: "Varela Round";
+    font-size: 14px;
+    line-height: 18px;
+}
+.epyt-pagination {
+
+    clear: both;
+    text-align: center;
+    padding: 0px;
+
+}.widget-area .widget :last-child {
+
+    margin-bottom: 0;
+    margin-top: 8px;
+
+}
+/*Invisibilizar placa re Captcha*/
+.grecaptcha-badge {opacity:0}
+
+.wp-tiles-container {
+
+    width: auto;
+    height: auto;
+    background: none;
+    overflow: visible;
+    margin-top: 110px;
+
+}
+
+.entry-content li:before {
+    font-family: FontAwesome;
+    content: "\f00c";
+    position: absolute;
+    left: -1em;
+    top: -0.3em;
+    color: #fcb94c;
+}
+.wp-block-gallery li:before {
+    display: none;
+	padding: 0 0 0 -1em;
+}
+.wp-block-gallery .blocks-gallery-image figcaption, .wp-block-gallery .blocks-gallery-item figcaption {
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-height: 100%;
+    overflow: auto;
+    padding: 40px 10px 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+    background: linear-gradient(0deg,rgba(0,0,0,.0) 0,rgba(0,0,0,.0) 60%,transparent);
+
+}.alignright {
+
+    display: block;}		</style>
+		</head>
+
+<body class="error404 wp-custom-logo do-etfw hfeed content main-layout-content sidebar_vertical_border site-full-width menu_sidebar_slide_right">
+<div id="page" class="site box-shadow">
+	<a class="skip-link screen-reader-text" href="#site-content">Ir al contenido</a>
+	<a class="close is-size-medium is-text-light close-panel close-sidebar-panel" href="#">
+        <span class="hamburger hamburger--squeeze is-active">
+            <span class="hamburger-box">
+              <span class="hamburger-inner"><span class="screen-reader-text">Menú</span></span>
+            </span>
+        </span>
+        <span class="screen-reader-text">Cerrar</span>
+        </a><header id="masthead" class="site-header"><div id="masthead-inner" class="site-header-inner">							<div  class="header-top header--row hide-on-mobile hide-on-tablet layout-full-contained"  id="cb-row--header-top"  data-row-id="top"  data-show-on="desktop">
+								<div class="header--row-inner header-top-inner light-mode">
+									<div class="customify-container">
+										<div class="customify-grid  customify-grid-middle"><div class="customify-col-4_md-4_sm-4 builder-item builder-first--logo" data-push-left=""><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo" >		<div class="site-branding logo-left">
+						<a href="http://www.andreachurba.com.ar/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="http://www.andreachurba.com.ar/wp-content/uploads/2018/10/logo.png" alt="Logo" srcset="http://www.andreachurba.com.ar/wp-content/uploads/2018/10/logo.png 2x">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div><div class="customify-col-4_md-4_sm-4 builder-item builder-first--social-icons" data-push-left="off-4"><div class="item--inner builder-item--social-icons" data-section="header_social_icons" data-item-id="social-icons" ><ul class="header-social-icons customify-builder-social-icons color-custom"><li><a class="social-icon-facebook-square shape-circle" rel="nofollow" target="_blank" href="https://www.facebook.com/andrea.churba.1"><i class="icon fa fa-facebook-square" title="Facebook"></i></a></li><li><a class="social-icon-twitter shape-circle" rel="nofollow" target="_blank" href="https://twitter.com/andreachurba"><i class="icon fa fa-twitter" title="Twitter"></i></a></li><li><a class="social-icon-youtube-play shape-circle" rel="nofollow" target="_blank" href="https://www.youtube.com/channel/UC4KdKuK2LO_uhGYLfIGM-Xg"><i class="icon fa fa-youtube-play" title="Youtube"></i></a></li><li><a class="social-icon-instagram shape-circle" rel="nofollow" target="_blank" href="https://www.instagram.com/andreachurba"><i class="icon fa fa-instagram" title="Instagram"></i></a></li></ul></div></div></div>									</div>
+								</div>
+							</div>
+														<div  class="header-main header--row layout-full-contained"  id="cb-row--header-main"  data-row-id="main"  data-show-on="desktop mobile">
+								<div class="header--row-inner header-main-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid cb-row--desktop hide-on-mobile hide-on-tablet customify-grid-middle"><div class="customify-col-12_md-12_sm-12 builder-item builder-first--primary-menu" data-push-left=""><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu" ><nav  id="site-navigation-main-desktop" class="site-navigation primary-menu primary-menu-main nav-menu-desktop primary-menu-desktop style-full-height hide-arrow-active"><ul id="menu-menu-principal" class="primary-menu-ul menu nav-menu"><li id="menu-item--main-desktop-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="http://www.andreachurba.com.ar/como-lo-hacemos/"><span class="link-before">Cómo lo hacemos</span></a></li>
+<li id="menu-item--main-desktop-1123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123"><a href="http://www.andreachurba.com.ar/nuestros-mundos/"><span class="link-before">Nuestros mundos</span></a></li>
+<li id="menu-item--main-desktop-23" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-23"><a href="http://www.andreachurba.com.ar/estamos-pensando/"><span class="link-before">Estamos pensando…</span></a></li>
+<li id="menu-item--main-desktop-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="http://www.andreachurba.com.ar/en-que-andamos/"><span class="link-before">En qué andamos…</span></a></li>
+<li id="menu-item--main-desktop-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="http://www.andreachurba.com.ar/desde-adentro/"><span class="link-before">Desde adentro</span></a></li>
+<li id="menu-item--main-desktop-2257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2257"><a href="http://www.andreachurba.com.ar/contactanos/"><span class="link-before">Contactános</span></a></li>
+</ul></nav></div></div></div><div class="cb-row--mobile hide-on-desktop customify-grid customify-grid-middle"><div class="customify-col-9_md-9_sm-9 builder-item builder-first--logo" data-push-left=""><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo" >		<div class="site-branding logo-left">
+						<a href="http://www.andreachurba.com.ar/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="http://www.andreachurba.com.ar/wp-content/uploads/2018/10/logo.png" alt="Logo" srcset="http://www.andreachurba.com.ar/wp-content/uploads/2018/10/logo.png 2x">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div><div class="customify-col-3_md-3_sm-3 builder-item builder-first--nav-icon" data-push-left=""><div class="item--inner builder-item--nav-icon" data-section="header_menu_icon" data-item-id="nav-icon" >		<a class="menu-mobile-toggle item-button is-size-desktop-medium is-size-tablet-medium is-size-mobile-medium">
+			<span class="hamburger hamburger--squeeze">
+				<span class="hamburger-box">
+					<span class="hamburger-inner"></span>
+				</span>
+			</span>
+			<span class="nav-icon--label hide-on-tablet hide-on-mobile">Menú</span></a>
+		</div></div></div>									</div>
+								</div>
+							</div>
+							<div id="header-menu-sidebar" class="header-menu-sidebar menu-sidebar-panel dark-mode"><div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg"><div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner"><div class="builder-item-sidebar mobile-item--primary-menu mobile-item--menu "><div class="item--inner" data-item-id="primary-menu" data-section="header_menu_primary"><nav  id="site-navigation-sidebar-mobile" class="site-navigation primary-menu primary-menu-sidebar nav-menu-mobile primary-menu-mobile style-full-height hide-arrow-active"><ul id="menu-menu-principal" class="primary-menu-ul menu nav-menu"><li id="menu-item--sidebar-mobile-254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-254"><a href="http://www.andreachurba.com.ar/como-lo-hacemos/"><span class="link-before">Cómo lo hacemos</span></a></li>
+<li id="menu-item--sidebar-mobile-1123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123"><a href="http://www.andreachurba.com.ar/nuestros-mundos/"><span class="link-before">Nuestros mundos</span></a></li>
+<li id="menu-item--sidebar-mobile-23" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-23"><a href="http://www.andreachurba.com.ar/estamos-pensando/"><span class="link-before">Estamos pensando…</span></a></li>
+<li id="menu-item--sidebar-mobile-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="http://www.andreachurba.com.ar/en-que-andamos/"><span class="link-before">En qué andamos…</span></a></li>
+<li id="menu-item--sidebar-mobile-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="http://www.andreachurba.com.ar/desde-adentro/"><span class="link-before">Desde adentro</span></a></li>
+<li id="menu-item--sidebar-mobile-2257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2257"><a href="http://www.andreachurba.com.ar/contactanos/"><span class="link-before">Contactános</span></a></li>
+</ul></nav></div></div><div class="builder-item-sidebar mobile-item--social-icons"><div class="item--inner" data-item-id="social-icons" data-section="header_social_icons"><ul class="header-social-icons customify-builder-social-icons color-custom"><li><a class="social-icon-facebook-square shape-circle" rel="nofollow" target="_blank" href="https://www.facebook.com/andrea.churba.1"><i class="icon fa fa-facebook-square" title="Facebook"></i></a></li><li><a class="social-icon-twitter shape-circle" rel="nofollow" target="_blank" href="https://twitter.com/andreachurba"><i class="icon fa fa-twitter" title="Twitter"></i></a></li><li><a class="social-icon-youtube-play shape-circle" rel="nofollow" target="_blank" href="https://www.youtube.com/channel/UC4KdKuK2LO_uhGYLfIGM-Xg"><i class="icon fa fa-youtube-play" title="Youtube"></i></a></li><li><a class="social-icon-instagram shape-circle" rel="nofollow" target="_blank" href="https://www.instagram.com/andreachurba"><i class="icon fa fa-instagram" title="Instagram"></i></a></li></ul></div></div></div></div></div></div></header>	<div id="site-content" class="site-content">
+		<div class="customify-container">
+			<div class="customify-grid">
+				<main id="main" class="content-area customify-col-12">
+					
+<div class="content-inner">
+			<section class="error-404 not-found">
+							<header class="page-header">
+					<h1 class="page-title">¡Ups! No pudimos encontrar esa página.</h1>
+				</header><!-- .page-header -->
+						<div class="page-content widget-area">
+				<p>Parece que no hay nada acá. ¿Probaste con uno de los enlaces de abajo o una búsqueda?</p>
+				<div class="widget">
+					
+		<form role="search" class="sidebar-search-form" action="http://www.andreachurba.com.ar/">
+            <label>
+                <span class="screen-reader-text">Buscar por:</span>
+                <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Buscar por:" />
+            </label>
+            <button type="submit" class="search-submit" >
+                <svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+                    <path id="svg-search" fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+                </svg>
+            </button>
+        </form>				</div>
+			</div><!-- .page-content -->
+		</section><!-- .error-404 -->
+		</div><!-- #.content-inner -->
+              			</main><!-- #main -->
+					</div><!-- #.customify-grid -->
+	</div><!-- #.customify-container -->
+</div><!-- #content -->
+<footer class="site-footer" id="site-footer">							<div  class="footer-main footer--row layout-full-contained"  id="cb-row--footer-main"  data-row-id="main"  data-show-on="desktop mobile">
+								<div class="footer--row-inner footer-main-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid  customify-grid-top"><div class="customify-col-2_md-2_sm-6_xs-12 builder-item builder-first--footer-1" data-push-left="_sm-0"><div class="item--inner builder-item--footer-1" data-section="sidebar-widgets-footer-1" data-item-id="footer-1" ><div class="widget-area"><section id="custom-twitter-feeds-widget-3" class="widget widget_custom-twitter-feeds-widget"><h4 class="widget-title">Twitter</h4>
+<!-- Custom Twitter Feeds by Smash Balloon -->
+<div id="ctf" class=" ctf ctf-type-usertimeline ctf-feed-1  ctf-styles ctf-list ctf-regular-style ctf-fixed-height"   data-ctfshortcode="{&quot;feed&quot;:1}"   data-ctfdisablelinks="false" data-ctflinktextcolor="#808080" data-header-size="small" data-feedid="1" data-postid="108"  data-feed="1" data-ctfintents="1"  data-ctfneeded="-16">
+        <div class="ctf-tweets">
+   		
+<div  class="ctf-item ctf-author-andreachurba ctf-new ctf-hide-avatar"  id="1604986766607392769" >
+
+	
+	<div class="ctf-author-box">
+		<div class="ctf-author-box-link">
+	        
+							<div class="ctf-tweet-meta" >
+					<a href="https://twitter.com/andreachurba/status/1604986766607392769" class="ctf-tweet-date" target="_blank" rel="noopener noreferrer" >19 Dic 2022</a>
+				</div>
+					</div>
+	    			<div class="ctf-corner-logo" >
+				<svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>			</div>
+		
+	</div>
+	<div class="ctf-tweet-content">
+		                <p class="ctf-tweet-text">
+                    Acaba de publicar una foto en Plaza de Mayo                                     </p>
+                        	</div>
+
+		
+	<div class="ctf-tweet-actions" >
+		
+		<a href="https://twitter.com/intent/tweet?in_reply_to=1604986766607392769&#038;related=andreachurba" class="ctf-reply" target="_blank" rel="noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-label="reply" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"></path></g></svg>			<span class="ctf-screenreader">Reply on Twitter 1604986766607392769</span>
+		</a>
+
+		<a href="https://twitter.com/intent/retweet?tweet_id=1604986766607392769&#038;related=andreachurba" class="ctf-retweet" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg>			<span class="ctf-screenreader">Retweet on Twitter 1604986766607392769</span>
+			<span class="ctf-action-count ctf-retweet-count"></span>
+		</a>
+
+		<a href="https://twitter.com/intent/like?tweet_id=1604986766607392769&#038;related=andreachurba" class="ctf-like" target="_blank" rel="nofollow noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="like" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12zM7.354 4.225c-2.08 0-3.903 1.988-3.903 4.255 0 5.74 7.034 11.596 8.55 11.658 1.518-.062 8.55-5.917 8.55-11.658 0-2.267-1.823-4.255-3.903-4.255-2.528 0-3.94 2.936-3.952 2.965-.23.562-1.156.562-1.387 0-.014-.03-1.425-2.965-3.954-2.965z"></path></g></svg>			<span class="ctf-screenreader">Like on Twitter 1604986766607392769</span>
+			<span class="ctf-action-count ctf-favorite-count"></span>
+		</a>
+		
+					<a href="https://twitter.com/andreachurba/status/1604986766607392769" class="ctf-twitterlink" target="_blank" rel="nofollow noopener noreferrer" >
+				<span >Twitter</span>
+				<span class="ctf-screenreader">1604986766607392769</span>
+			</a>
+			</div>
+</div>
+<div  class="ctf-item ctf-author-andreachurba ctf-new ctf-hide-avatar"  id="1604466283625545730" >
+
+	
+	<div class="ctf-author-box">
+		<div class="ctf-author-box-link">
+	        
+							<div class="ctf-tweet-meta" >
+					<a href="https://twitter.com/andreachurba/status/1604466283625545730" class="ctf-tweet-date" target="_blank" rel="noopener noreferrer" >18 Dic 2022</a>
+				</div>
+					</div>
+	    			<div class="ctf-corner-logo" >
+				<svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>			</div>
+		
+	</div>
+	<div class="ctf-tweet-content">
+		                <p class="ctf-tweet-text">
+                    Las seguimos buscando. Nos ayudas a difundir? #mundial2022 #argentina🇦🇷 #argentinafrancia #personasperdidas #qatar2022                                     </p>
+                        	</div>
+
+		
+	<div class="ctf-tweet-actions" >
+		
+		<a href="https://twitter.com/intent/tweet?in_reply_to=1604466283625545730&#038;related=andreachurba" class="ctf-reply" target="_blank" rel="noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-label="reply" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"></path></g></svg>			<span class="ctf-screenreader">Reply on Twitter 1604466283625545730</span>
+		</a>
+
+		<a href="https://twitter.com/intent/retweet?tweet_id=1604466283625545730&#038;related=andreachurba" class="ctf-retweet" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg>			<span class="ctf-screenreader">Retweet on Twitter 1604466283625545730</span>
+			<span class="ctf-action-count ctf-retweet-count"></span>
+		</a>
+
+		<a href="https://twitter.com/intent/like?tweet_id=1604466283625545730&#038;related=andreachurba" class="ctf-like" target="_blank" rel="nofollow noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="like" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12zM7.354 4.225c-2.08 0-3.903 1.988-3.903 4.255 0 5.74 7.034 11.596 8.55 11.658 1.518-.062 8.55-5.917 8.55-11.658 0-2.267-1.823-4.255-3.903-4.255-2.528 0-3.94 2.936-3.952 2.965-.23.562-1.156.562-1.387 0-.014-.03-1.425-2.965-3.954-2.965z"></path></g></svg>			<span class="ctf-screenreader">Like on Twitter 1604466283625545730</span>
+			<span class="ctf-action-count ctf-favorite-count"></span>
+		</a>
+		
+					<a href="https://twitter.com/andreachurba/status/1604466283625545730" class="ctf-twitterlink" target="_blank" rel="nofollow noopener noreferrer" >
+				<span >Twitter</span>
+				<span class="ctf-screenreader">1604466283625545730</span>
+			</a>
+			</div>
+</div>
+<div  class="ctf-item ctf-author-andreachurba ctf-new ctf-hide-avatar"  id="1601673062918721536" >
+
+	
+	<div class="ctf-author-box">
+		<div class="ctf-author-box-link">
+	        
+							<div class="ctf-tweet-meta" >
+					<a href="https://twitter.com/andreachurba/status/1601673062918721536" class="ctf-tweet-date" target="_blank" rel="noopener noreferrer" >10 Dic 2022</a>
+				</div>
+					</div>
+	    			<div class="ctf-corner-logo" >
+				<svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>			</div>
+		
+	</div>
+	<div class="ctf-tweet-content">
+		                <p class="ctf-tweet-text">
+                    Los oradores de la @tedxbarriosannicolas en la villa, barrio 20                                     </p>
+                        	</div>
+
+		
+	<div class="ctf-tweet-actions" >
+		
+		<a href="https://twitter.com/intent/tweet?in_reply_to=1601673062918721536&#038;related=andreachurba" class="ctf-reply" target="_blank" rel="noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-label="reply" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"></path></g></svg>			<span class="ctf-screenreader">Reply on Twitter 1601673062918721536</span>
+		</a>
+
+		<a href="https://twitter.com/intent/retweet?tweet_id=1601673062918721536&#038;related=andreachurba" class="ctf-retweet" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg>			<span class="ctf-screenreader">Retweet on Twitter 1601673062918721536</span>
+			<span class="ctf-action-count ctf-retweet-count"></span>
+		</a>
+
+		<a href="https://twitter.com/intent/like?tweet_id=1601673062918721536&#038;related=andreachurba" class="ctf-like" target="_blank" rel="nofollow noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="like" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12zM7.354 4.225c-2.08 0-3.903 1.988-3.903 4.255 0 5.74 7.034 11.596 8.55 11.658 1.518-.062 8.55-5.917 8.55-11.658 0-2.267-1.823-4.255-3.903-4.255-2.528 0-3.94 2.936-3.952 2.965-.23.562-1.156.562-1.387 0-.014-.03-1.425-2.965-3.954-2.965z"></path></g></svg>			<span class="ctf-screenreader">Like on Twitter 1601673062918721536</span>
+			<span class="ctf-action-count ctf-favorite-count"></span>
+		</a>
+		
+					<a href="https://twitter.com/andreachurba/status/1601673062918721536" class="ctf-twitterlink" target="_blank" rel="nofollow noopener noreferrer" >
+				<span >Twitter</span>
+				<span class="ctf-screenreader">1601673062918721536</span>
+			</a>
+			</div>
+</div>
+<div  class="ctf-item ctf-author-andreachurba ctf-new ctf-hide-avatar"  id="1601660162456027138" >
+
+	
+	<div class="ctf-author-box">
+		<div class="ctf-author-box-link">
+	        
+							<div class="ctf-tweet-meta" >
+					<a href="https://twitter.com/andreachurba/status/1601660162456027138" class="ctf-tweet-date" target="_blank" rel="noopener noreferrer" >10 Dic 2022</a>
+				</div>
+					</div>
+	    			<div class="ctf-corner-logo" >
+				<svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>			</div>
+		
+	</div>
+	<div class="ctf-tweet-content">
+		                <p class="ctf-tweet-text">
+                    Con amigos en la @tedxbarriosannicolas en la villa, barrio 20. Gracias por la invitacion @fabisolanob ! en Villa Soldati, Distrito Federal, Argentina                                     </p>
+                        	</div>
+
+		
+	<div class="ctf-tweet-actions" >
+		
+		<a href="https://twitter.com/intent/tweet?in_reply_to=1601660162456027138&#038;related=andreachurba" class="ctf-reply" target="_blank" rel="noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-label="reply" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"></path></g></svg>			<span class="ctf-screenreader">Reply on Twitter 1601660162456027138</span>
+		</a>
+
+		<a href="https://twitter.com/intent/retweet?tweet_id=1601660162456027138&#038;related=andreachurba" class="ctf-retweet" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg>			<span class="ctf-screenreader">Retweet on Twitter 1601660162456027138</span>
+			<span class="ctf-action-count ctf-retweet-count"></span>
+		</a>
+
+		<a href="https://twitter.com/intent/like?tweet_id=1601660162456027138&#038;related=andreachurba" class="ctf-like" target="_blank" rel="nofollow noopener noreferrer">
+			<svg class="svg-inline--fa fa-w-16" viewBox="0 0 24 24" aria-hidden="true" aria-label="like" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12zM7.354 4.225c-2.08 0-3.903 1.988-3.903 4.255 0 5.74 7.034 11.596 8.55 11.658 1.518-.062 8.55-5.917 8.55-11.658 0-2.267-1.823-4.255-3.903-4.255-2.528 0-3.94 2.936-3.952 2.965-.23.562-1.156.562-1.387 0-.014-.03-1.425-2.965-3.954-2.965z"></path></g></svg>			<span class="ctf-screenreader">Like on Twitter 1601660162456027138</span>
+			<span class="ctf-action-count ctf-favorite-count">1</span>
+		</a>
+		
+					<a href="https://twitter.com/andreachurba/status/1601660162456027138" class="ctf-twitterlink" target="_blank" rel="nofollow noopener noreferrer" >
+				<span >Twitter</span>
+				<span class="ctf-screenreader">1601660162456027138</span>
+			</a>
+			</div>
+</div>    </div>
+    
+    <a href="javascript:void(0);" id="ctf-more" class="ctf-more" ><span>Load More...</span></a>
+
+
+</div>
+</section><section id="media_image-9" class="widget widget_media_image"><a href="https://twitter.com/andreachurba" target="_blank" rel="noopener"><img width="172" height="30" src="http://www.andreachurba.com.ar/wp-content/uploads/2018/12/seguir-twitter.png" class="image wp-image-2886  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" /></a></section></div></div></div><div class="customify-col-3_md-3_sm-6_xs-12 builder-item builder-first--footer-2" data-push-left="_sm-0"><div class="item--inner builder-item--footer-2" data-section="sidebar-widgets-footer-2" data-item-id="footer-2" ><div class="widget-area"><section id="custom_html-6" class="widget_text widget widget_custom_html"><h4 class="widget-title">Instagram</h4><div class="textwidget custom-html-widget">
+<div id="sb_instagram"  class="sbi sbi_mob_col_1 sbi_tab_col_2 sbi_col_3 sbi_width_resp sbi_fixed_height" style="padding-bottom: 10px;width: 90%;height: 330px;" data-feedid="*1"  data-res="auto" data-cols="3" data-colsmobile="1" data-colstablet="2" data-num="9" data-nummobile="" data-shortcode-atts="{}"  data-postid="" data-locatornonce="d27893ed18" data-sbi-flags="favorLocal">
+	
+    <div id="sbi_images"  style="padding: 5px;">
+		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18107325946864344" data-date="1780340301">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DZDdcc-p88V/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-1.cdninstagram.com/v/t51.82787-15/712389483_18589919794007476_8809709330308681989_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=111&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=JY8-z0MJYn8Q7kNvwEwRMQW&#038;_nc_oc=Adp3MiM7xIiB-KZOQxl_zDnoeViOd727kMTSoXBmAgkXV9-bzh622MfDRy59JOtlAoA&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;oh=00_Af_wcNsLRLaGx6KLLJC5xOoGSRxqidP8BjR03r8op8LfJw&#038;oe=6A2F68B8" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/712389483_18589919794007476_8809709330308681989_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=JY8-z0MJYn8Q7kNvwEwRMQW&amp;_nc_oc=Adp3MiM7xIiB-KZOQxl_zDnoeViOd727kMTSoXBmAgkXV9-bzh622MfDRy59JOtlAoA&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af_wcNsLRLaGx6KLLJC5xOoGSRxqidP8BjR03r8op8LfJw&amp;oe=6A2F68B8&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/712389483_18589919794007476_8809709330308681989_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=JY8-z0MJYn8Q7kNvwEwRMQW&amp;_nc_oc=Adp3MiM7xIiB-KZOQxl_zDnoeViOd727kMTSoXBmAgkXV9-bzh622MfDRy59JOtlAoA&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af_wcNsLRLaGx6KLLJC5xOoGSRxqidP8BjR03r8op8LfJw&amp;oe=6A2F68B8&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/712389483_18589919794007476_8809709330308681989_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=JY8-z0MJYn8Q7kNvwEwRMQW&amp;_nc_oc=Adp3MiM7xIiB-KZOQxl_zDnoeViOd727kMTSoXBmAgkXV9-bzh622MfDRy59JOtlAoA&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af_wcNsLRLaGx6KLLJC5xOoGSRxqidP8BjR03r8op8LfJw&amp;oe=6A2F68B8&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/712389483_18589919794007476_8809709330308681989_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=JY8-z0MJYn8Q7kNvwEwRMQW&amp;_nc_oc=Adp3MiM7xIiB-KZOQxl_zDnoeViOd727kMTSoXBmAgkXV9-bzh622MfDRy59JOtlAoA&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af_wcNsLRLaGx6KLLJC5xOoGSRxqidP8BjR03r8op8LfJw&amp;oe=6A2F68B8&quot;}">
+            <span class="sbi-screenreader">Inmersión de escritura, encuentros creativos,  in</span>
+            	                    <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Inmersión de escritura, encuentros creativos,  intensos y amorosos. Se acerca el final  del libro de Tukuy!!!!En poco tiempo podremos contar más!">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18101041559089788" data-date="1779074430">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/DYdvVXUuHo-/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-1.cdninstagram.com/v/t51.71878-15/687684796_2590137278109081_6951835023973313761_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=105&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=Lu85f7ccWfQQ7kNvwHX4olf&#038;_nc_oc=AdpneJx9-Q6S8hNxxFGrh1orXAmyMqZXOUI_sTmhMHJ0dSJlyurcEhLk1MfUiuY62zU&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;_nc_tpa=Q5bMBQFsQ7FIyyPaNjf_cZTQCddtagPxQ0ZEPPesdI9n0GFRtxKdxfVXU2qNiGvbgkF-YlIClFlyLix6&#038;oh=00_Af8kESMrd7ubYtFOUaWhXxXz-5YbzDGAZ89br6IetaJHtw&#038;oe=6A2F6B93" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/687684796_2590137278109081_6951835023973313761_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Lu85f7ccWfQQ7kNvwHX4olf&amp;_nc_oc=AdpneJx9-Q6S8hNxxFGrh1orXAmyMqZXOUI_sTmhMHJ0dSJlyurcEhLk1MfUiuY62zU&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQFsQ7FIyyPaNjf_cZTQCddtagPxQ0ZEPPesdI9n0GFRtxKdxfVXU2qNiGvbgkF-YlIClFlyLix6&amp;oh=00_Af8kESMrd7ubYtFOUaWhXxXz-5YbzDGAZ89br6IetaJHtw&amp;oe=6A2F6B93&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/687684796_2590137278109081_6951835023973313761_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Lu85f7ccWfQQ7kNvwHX4olf&amp;_nc_oc=AdpneJx9-Q6S8hNxxFGrh1orXAmyMqZXOUI_sTmhMHJ0dSJlyurcEhLk1MfUiuY62zU&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQFsQ7FIyyPaNjf_cZTQCddtagPxQ0ZEPPesdI9n0GFRtxKdxfVXU2qNiGvbgkF-YlIClFlyLix6&amp;oh=00_Af8kESMrd7ubYtFOUaWhXxXz-5YbzDGAZ89br6IetaJHtw&amp;oe=6A2F6B93&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/687684796_2590137278109081_6951835023973313761_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Lu85f7ccWfQQ7kNvwHX4olf&amp;_nc_oc=AdpneJx9-Q6S8hNxxFGrh1orXAmyMqZXOUI_sTmhMHJ0dSJlyurcEhLk1MfUiuY62zU&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQFsQ7FIyyPaNjf_cZTQCddtagPxQ0ZEPPesdI9n0GFRtxKdxfVXU2qNiGvbgkF-YlIClFlyLix6&amp;oh=00_Af8kESMrd7ubYtFOUaWhXxXz-5YbzDGAZ89br6IetaJHtw&amp;oe=6A2F6B93&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/687684796_2590137278109081_6951835023973313761_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=Lu85f7ccWfQQ7kNvwHX4olf&amp;_nc_oc=AdpneJx9-Q6S8hNxxFGrh1orXAmyMqZXOUI_sTmhMHJ0dSJlyurcEhLk1MfUiuY62zU&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQFsQ7FIyyPaNjf_cZTQCddtagPxQ0ZEPPesdI9n0GFRtxKdxfVXU2qNiGvbgkF-YlIClFlyLix6&amp;oh=00_Af8kESMrd7ubYtFOUaWhXxXz-5YbzDGAZ89br6IetaJHtw&amp;oe=6A2F6B93&quot;}">
+            <span class="sbi-screenreader">Final de fiesta, hasta la próxima! Encuentros que</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Final de fiesta, hasta la próxima! Encuentros que son un mimo al alma❤️. Mucha admiración por vos  @milichaufan  Y puro amor ❤️ 😍🥰">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18118967101674407" data-date="1778990856">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/DYbPvdcOmPf/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-1.cdninstagram.com/v/t51.71878-15/675478443_4459190330981946_6575764747947656447_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=111&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=pTZdawynzy8Q7kNvwEgr64d&#038;_nc_oc=AdqDc3vBX8-eLB5ca23cHubcHwpqulrM2QUDBXveWBAXV5YWUCRzvENZWitfwQKF8Yg&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;_nc_tpa=Q5bMBQHre_FVfZ45-EN5Tw03atbEuhxlDxLKBcVOL8TtwwgNI2MJDGHwfnBojIN03u_dppaSSed7pAO3&#038;oh=00_Af-Xvx4ggL9Zfue-y35L3-Gu7Q3Ql2CE1uz15n_IdT0B3w&#038;oe=6A2F610B" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/675478443_4459190330981946_6575764747947656447_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=pTZdawynzy8Q7kNvwEgr64d&amp;_nc_oc=AdqDc3vBX8-eLB5ca23cHubcHwpqulrM2QUDBXveWBAXV5YWUCRzvENZWitfwQKF8Yg&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQHre_FVfZ45-EN5Tw03atbEuhxlDxLKBcVOL8TtwwgNI2MJDGHwfnBojIN03u_dppaSSed7pAO3&amp;oh=00_Af-Xvx4ggL9Zfue-y35L3-Gu7Q3Ql2CE1uz15n_IdT0B3w&amp;oe=6A2F610B&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/675478443_4459190330981946_6575764747947656447_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=pTZdawynzy8Q7kNvwEgr64d&amp;_nc_oc=AdqDc3vBX8-eLB5ca23cHubcHwpqulrM2QUDBXveWBAXV5YWUCRzvENZWitfwQKF8Yg&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQHre_FVfZ45-EN5Tw03atbEuhxlDxLKBcVOL8TtwwgNI2MJDGHwfnBojIN03u_dppaSSed7pAO3&amp;oh=00_Af-Xvx4ggL9Zfue-y35L3-Gu7Q3Ql2CE1uz15n_IdT0B3w&amp;oe=6A2F610B&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/675478443_4459190330981946_6575764747947656447_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=pTZdawynzy8Q7kNvwEgr64d&amp;_nc_oc=AdqDc3vBX8-eLB5ca23cHubcHwpqulrM2QUDBXveWBAXV5YWUCRzvENZWitfwQKF8Yg&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQHre_FVfZ45-EN5Tw03atbEuhxlDxLKBcVOL8TtwwgNI2MJDGHwfnBojIN03u_dppaSSed7pAO3&amp;oh=00_Af-Xvx4ggL9Zfue-y35L3-Gu7Q3Ql2CE1uz15n_IdT0B3w&amp;oe=6A2F610B&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/675478443_4459190330981946_6575764747947656447_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=111&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=pTZdawynzy8Q7kNvwEgr64d&amp;_nc_oc=AdqDc3vBX8-eLB5ca23cHubcHwpqulrM2QUDBXveWBAXV5YWUCRzvENZWitfwQKF8Yg&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQHre_FVfZ45-EN5Tw03atbEuhxlDxLKBcVOL8TtwwgNI2MJDGHwfnBojIN03u_dppaSSed7pAO3&amp;oh=00_Af-Xvx4ggL9Zfue-y35L3-Gu7Q3Ql2CE1uz15n_IdT0B3w&amp;oe=6A2F610B&quot;}">
+            <span class="sbi-screenreader">La alegría de pasar juntas tu cumple. Te AMO @mil</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="La alegría de pasar juntas tu cumple. Te AMO @milichaufan ❤️❤️❤️❤️😍">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18357601087239601" data-date="1776980859">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/DXfWLwwu_dE/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-2.cdninstagram.com/v/t51.71878-15/674428409_3510261602464336_3498004507640479568_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=100&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=efwGJ1PwLnoQ7kNvwFsvyrI&#038;_nc_oc=Ado2OrBpnD1bWbfcpBe6bx2uzgQs0ajUgvHXDui2vaVkmdCFxeSXvFDOzRNxuwKa9Jk&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-2.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;_nc_tpa=Q5bMBQGpmKM5TAbc_ujrcJyEOi2qaog-1BiujeGgcSGE4JdHmxvS9RR-9eEgBIky9Apa57OZAdx0XIfJ&#038;oh=00_Af_ngeclGqGQRawdBnsaMkkIBoPSBChYmU_s_uWrxACg5w&#038;oe=6A2F5A06" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-2.cdninstagram.com\/v\/t51.71878-15\/674428409_3510261602464336_3498004507640479568_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=efwGJ1PwLnoQ7kNvwFsvyrI&amp;_nc_oc=Ado2OrBpnD1bWbfcpBe6bx2uzgQs0ajUgvHXDui2vaVkmdCFxeSXvFDOzRNxuwKa9Jk&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGpmKM5TAbc_ujrcJyEOi2qaog-1BiujeGgcSGE4JdHmxvS9RR-9eEgBIky9Apa57OZAdx0XIfJ&amp;oh=00_Af_ngeclGqGQRawdBnsaMkkIBoPSBChYmU_s_uWrxACg5w&amp;oe=6A2F5A06&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-2.cdninstagram.com\/v\/t51.71878-15\/674428409_3510261602464336_3498004507640479568_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=efwGJ1PwLnoQ7kNvwFsvyrI&amp;_nc_oc=Ado2OrBpnD1bWbfcpBe6bx2uzgQs0ajUgvHXDui2vaVkmdCFxeSXvFDOzRNxuwKa9Jk&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGpmKM5TAbc_ujrcJyEOi2qaog-1BiujeGgcSGE4JdHmxvS9RR-9eEgBIky9Apa57OZAdx0XIfJ&amp;oh=00_Af_ngeclGqGQRawdBnsaMkkIBoPSBChYmU_s_uWrxACg5w&amp;oe=6A2F5A06&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-2.cdninstagram.com\/v\/t51.71878-15\/674428409_3510261602464336_3498004507640479568_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=efwGJ1PwLnoQ7kNvwFsvyrI&amp;_nc_oc=Ado2OrBpnD1bWbfcpBe6bx2uzgQs0ajUgvHXDui2vaVkmdCFxeSXvFDOzRNxuwKa9Jk&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGpmKM5TAbc_ujrcJyEOi2qaog-1BiujeGgcSGE4JdHmxvS9RR-9eEgBIky9Apa57OZAdx0XIfJ&amp;oh=00_Af_ngeclGqGQRawdBnsaMkkIBoPSBChYmU_s_uWrxACg5w&amp;oe=6A2F5A06&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-2.cdninstagram.com\/v\/t51.71878-15\/674428409_3510261602464336_3498004507640479568_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=100&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=efwGJ1PwLnoQ7kNvwFsvyrI&amp;_nc_oc=Ado2OrBpnD1bWbfcpBe6bx2uzgQs0ajUgvHXDui2vaVkmdCFxeSXvFDOzRNxuwKa9Jk&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGpmKM5TAbc_ujrcJyEOi2qaog-1BiujeGgcSGE4JdHmxvS9RR-9eEgBIky9Apa57OZAdx0XIfJ&amp;oh=00_Af_ngeclGqGQRawdBnsaMkkIBoPSBChYmU_s_uWrxACg5w&amp;oe=6A2F5A06&quot;}">
+            <span class="sbi-screenreader">Instagram post 18357601087239601</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Instagram post 18357601087239601">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18077272448295008" data-date="1776738085">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/DXYHE5HuZVO/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-1.cdninstagram.com/v/t51.82787-15/670840406_18578100517007476_187970643381674757_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=109&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=tkshY2bZ3jAQ7kNvwEHAOSG&#038;_nc_oc=AdrsP9wsW_Oc84WP0tRV7wBY8eFI-MjjhoCN7M2qxVL8FkaMkCIvqxES0VD4dTc1_aI&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;_nc_tpa=Q5bMBQGaNHsMpA5mIdFMBR4t5PrJS4egv-ZrzA6HgNUx5vhtgWUnNmJOLWfL-Op54Lg1aMrTif970rFO&#038;oh=00_Af-2dUxw6_LNVBoX3AYdrLQY1aiQUK5xhcrqHzR-DKY3Pg&#038;oe=6A2F3FA9" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/670840406_18578100517007476_187970643381674757_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=tkshY2bZ3jAQ7kNvwEHAOSG&amp;_nc_oc=AdrsP9wsW_Oc84WP0tRV7wBY8eFI-MjjhoCN7M2qxVL8FkaMkCIvqxES0VD4dTc1_aI&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGaNHsMpA5mIdFMBR4t5PrJS4egv-ZrzA6HgNUx5vhtgWUnNmJOLWfL-Op54Lg1aMrTif970rFO&amp;oh=00_Af-2dUxw6_LNVBoX3AYdrLQY1aiQUK5xhcrqHzR-DKY3Pg&amp;oe=6A2F3FA9&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/670840406_18578100517007476_187970643381674757_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=tkshY2bZ3jAQ7kNvwEHAOSG&amp;_nc_oc=AdrsP9wsW_Oc84WP0tRV7wBY8eFI-MjjhoCN7M2qxVL8FkaMkCIvqxES0VD4dTc1_aI&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGaNHsMpA5mIdFMBR4t5PrJS4egv-ZrzA6HgNUx5vhtgWUnNmJOLWfL-Op54Lg1aMrTif970rFO&amp;oh=00_Af-2dUxw6_LNVBoX3AYdrLQY1aiQUK5xhcrqHzR-DKY3Pg&amp;oe=6A2F3FA9&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/670840406_18578100517007476_187970643381674757_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=tkshY2bZ3jAQ7kNvwEHAOSG&amp;_nc_oc=AdrsP9wsW_Oc84WP0tRV7wBY8eFI-MjjhoCN7M2qxVL8FkaMkCIvqxES0VD4dTc1_aI&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGaNHsMpA5mIdFMBR4t5PrJS4egv-ZrzA6HgNUx5vhtgWUnNmJOLWfL-Op54Lg1aMrTif970rFO&amp;oh=00_Af-2dUxw6_LNVBoX3AYdrLQY1aiQUK5xhcrqHzR-DKY3Pg&amp;oe=6A2F3FA9&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/670840406_18578100517007476_187970643381674757_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=tkshY2bZ3jAQ7kNvwEHAOSG&amp;_nc_oc=AdrsP9wsW_Oc84WP0tRV7wBY8eFI-MjjhoCN7M2qxVL8FkaMkCIvqxES0VD4dTc1_aI&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGaNHsMpA5mIdFMBR4t5PrJS4egv-ZrzA6HgNUx5vhtgWUnNmJOLWfL-Op54Lg1aMrTif970rFO&amp;oh=00_Af-2dUxw6_LNVBoX3AYdrLQY1aiQUK5xhcrqHzR-DKY3Pg&amp;oe=6A2F3FA9&quot;}">
+            <span class="sbi-screenreader">Hoy, en  la formación de Embajadores IDG y en CON</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Hoy, en  la formación de Embajadores IDG y en CONTRIBUIR de @proyectoankyra, presentamos  el Modelo Tukuy y experimentamos un poco del modelo en un workshop intergeneracional . Hermosa Experiencia!">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_18097421558317599" data-date="1773600370">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/DV6mQD9jqUw/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-1.cdninstagram.com/v/t51.71878-15/652561383_1463239035478027_5510266256663536731_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=109&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=yzZkTo8PVBgQ7kNvwGzZN5-&#038;_nc_oc=Adq9_C2ZqSr6--PSesu2pUBWMREBZjvl5orX8jJ2Vs4ULH9MJurxlK2KHEfOigt7_Q0&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;_nc_tpa=Q5bMBQFOFb4UyQfjRDisIPqDzm7q9qTHnuuySvlcwwaSkmOUIZJLJKinv6VFRVUKW-eH-RgcrtY0QhCC&#038;oh=00_Af8DigmSZsd6mlPvzyAdgFgArnMxXiW3gyyPR7zeIa4zUw&#038;oe=6A2F703C" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/652561383_1463239035478027_5510266256663536731_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=yzZkTo8PVBgQ7kNvwGzZN5-&amp;_nc_oc=Adq9_C2ZqSr6--PSesu2pUBWMREBZjvl5orX8jJ2Vs4ULH9MJurxlK2KHEfOigt7_Q0&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQFOFb4UyQfjRDisIPqDzm7q9qTHnuuySvlcwwaSkmOUIZJLJKinv6VFRVUKW-eH-RgcrtY0QhCC&amp;oh=00_Af8DigmSZsd6mlPvzyAdgFgArnMxXiW3gyyPR7zeIa4zUw&amp;oe=6A2F703C&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/652561383_1463239035478027_5510266256663536731_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=yzZkTo8PVBgQ7kNvwGzZN5-&amp;_nc_oc=Adq9_C2ZqSr6--PSesu2pUBWMREBZjvl5orX8jJ2Vs4ULH9MJurxlK2KHEfOigt7_Q0&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQFOFb4UyQfjRDisIPqDzm7q9qTHnuuySvlcwwaSkmOUIZJLJKinv6VFRVUKW-eH-RgcrtY0QhCC&amp;oh=00_Af8DigmSZsd6mlPvzyAdgFgArnMxXiW3gyyPR7zeIa4zUw&amp;oe=6A2F703C&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/652561383_1463239035478027_5510266256663536731_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=yzZkTo8PVBgQ7kNvwGzZN5-&amp;_nc_oc=Adq9_C2ZqSr6--PSesu2pUBWMREBZjvl5orX8jJ2Vs4ULH9MJurxlK2KHEfOigt7_Q0&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQFOFb4UyQfjRDisIPqDzm7q9qTHnuuySvlcwwaSkmOUIZJLJKinv6VFRVUKW-eH-RgcrtY0QhCC&amp;oh=00_Af8DigmSZsd6mlPvzyAdgFgArnMxXiW3gyyPR7zeIa4zUw&amp;oe=6A2F703C&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.71878-15\/652561383_1463239035478027_5510266256663536731_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=109&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=yzZkTo8PVBgQ7kNvwGzZN5-&amp;_nc_oc=Adq9_C2ZqSr6--PSesu2pUBWMREBZjvl5orX8jJ2Vs4ULH9MJurxlK2KHEfOigt7_Q0&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQFOFb4UyQfjRDisIPqDzm7q9qTHnuuySvlcwwaSkmOUIZJLJKinv6VFRVUKW-eH-RgcrtY0QhCC&amp;oh=00_Af8DigmSZsd6mlPvzyAdgFgArnMxXiW3gyyPR7zeIa4zUw&amp;oe=6A2F703C&quot;}">
+            <span class="sbi-screenreader">Cuatro días compartidos con @ottoscharmer en dist</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Cuatro días compartidos con @ottoscharmer en distintos encuentros , en la UBA, el HUB de educación, una cena con líderes referentes de nuestro país y un retiro de tres días.
+Cada vez soy parte de  encuentros con Otto Scharmer —profesor del MIT y creador de Theory U— me vuelve a impresionar la calidad de los Ecosistemas que se generan en estos espacios. Personas con trayectorias muy distintas, miradas que vienen de mundos diferentes, y conversaciones que pocas veces aparecen en otros contextos.
+En este retiro en particular hubo una algo que lo hizo único: fue intergeneracional e intersectorial. Compartir con personas de distintas generaciones y de ámbitos tan diversos le dio al encuentro una riqueza especial, y  es la huella más fuerte que me llevo de estos días.
+Es mi tercer retiro con Otto, y agradezco a todas las personas con las que coincidimos en este tiempo y estos espacios: @silvana_bono @proyectoankyra @lidiamuradep @marianafargas @carolinacasullo @ileloar @catalinahornos @paulauhalde @maru.domecq  @pablobenavides.plm Y en especial a mis socias y amigas @milacorreagarcia @sofisimon7 @silvana.mondino .">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18117743161559197" data-date="1773353054">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DVzOf1DDjA0/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-1.cdninstagram.com/v/t51.82787-15/651008973_18567700915007476_2912429125542128510_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=105&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=zMgbgQGoaHkQ7kNvwHHpw3-&#038;_nc_oc=AdrQlYRwOZOfLti0wTezxxuQdnrgMLrf4d9-96M1jl2gB3QatR2vkZ_lurw-zQ2w_oc&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;oh=00_Af-l5YdGiYh1UrQxFSVndv35VCA1ckjJxL5e0tWzJlQvOA&#038;oe=6A2F52C7" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/651008973_18567700915007476_2912429125542128510_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=zMgbgQGoaHkQ7kNvwHHpw3-&amp;_nc_oc=AdrQlYRwOZOfLti0wTezxxuQdnrgMLrf4d9-96M1jl2gB3QatR2vkZ_lurw-zQ2w_oc&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af-l5YdGiYh1UrQxFSVndv35VCA1ckjJxL5e0tWzJlQvOA&amp;oe=6A2F52C7&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/651008973_18567700915007476_2912429125542128510_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=zMgbgQGoaHkQ7kNvwHHpw3-&amp;_nc_oc=AdrQlYRwOZOfLti0wTezxxuQdnrgMLrf4d9-96M1jl2gB3QatR2vkZ_lurw-zQ2w_oc&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af-l5YdGiYh1UrQxFSVndv35VCA1ckjJxL5e0tWzJlQvOA&amp;oe=6A2F52C7&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/651008973_18567700915007476_2912429125542128510_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=zMgbgQGoaHkQ7kNvwHHpw3-&amp;_nc_oc=AdrQlYRwOZOfLti0wTezxxuQdnrgMLrf4d9-96M1jl2gB3QatR2vkZ_lurw-zQ2w_oc&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af-l5YdGiYh1UrQxFSVndv35VCA1ckjJxL5e0tWzJlQvOA&amp;oe=6A2F52C7&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/651008973_18567700915007476_2912429125542128510_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=zMgbgQGoaHkQ7kNvwHHpw3-&amp;_nc_oc=AdrQlYRwOZOfLti0wTezxxuQdnrgMLrf4d9-96M1jl2gB3QatR2vkZ_lurw-zQ2w_oc&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af-l5YdGiYh1UrQxFSVndv35VCA1ckjJxL5e0tWzJlQvOA&amp;oe=6A2F52C7&quot;}">
+            <span class="sbi-screenreader">El equipo de facilitadores con el que compartí la</span>
+            	                    <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="El equipo de facilitadores con el que compartí la experiencia de acompañar a casi 200 personas en el taller de @ottoscharmer hoy en la Universidad de Buenos Aires. Gracias @ileloar por coordinar este equipo.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18429664327184208" data-date="1773335740">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/DVytKNODkxu/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-1.cdninstagram.com/v/t51.82787-15/649422790_18567651157007476_2550258150250560686_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=106&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=J9w5zx9PdBoQ7kNvwEJbx7E&#038;_nc_oc=Ado-2s926PXwyb6x16_745X2SejYo6scmi1Vd8Jb9-rOTo-mK56DweF7VztgsE1J6gQ&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-1.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;oh=00_Af9C5OranZryDLe6-mP87Sofo3BkHjIbKUGzdYzJ2336mw&#038;oe=6A2F73CB" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/649422790_18567651157007476_2550258150250560686_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=J9w5zx9PdBoQ7kNvwEJbx7E&amp;_nc_oc=Ado-2s926PXwyb6x16_745X2SejYo6scmi1Vd8Jb9-rOTo-mK56DweF7VztgsE1J6gQ&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af9C5OranZryDLe6-mP87Sofo3BkHjIbKUGzdYzJ2336mw&amp;oe=6A2F73CB&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/649422790_18567651157007476_2550258150250560686_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=J9w5zx9PdBoQ7kNvwEJbx7E&amp;_nc_oc=Ado-2s926PXwyb6x16_745X2SejYo6scmi1Vd8Jb9-rOTo-mK56DweF7VztgsE1J6gQ&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af9C5OranZryDLe6-mP87Sofo3BkHjIbKUGzdYzJ2336mw&amp;oe=6A2F73CB&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/649422790_18567651157007476_2550258150250560686_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=J9w5zx9PdBoQ7kNvwEJbx7E&amp;_nc_oc=Ado-2s926PXwyb6x16_745X2SejYo6scmi1Vd8Jb9-rOTo-mK56DweF7VztgsE1J6gQ&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af9C5OranZryDLe6-mP87Sofo3BkHjIbKUGzdYzJ2336mw&amp;oe=6A2F73CB&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-1.cdninstagram.com\/v\/t51.82787-15\/649422790_18567651157007476_2550258150250560686_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=106&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=J9w5zx9PdBoQ7kNvwEJbx7E&amp;_nc_oc=Ado-2s926PXwyb6x16_745X2SejYo6scmi1Vd8Jb9-rOTo-mK56DweF7VztgsE1J6gQ&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-1.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;oh=00_Af9C5OranZryDLe6-mP87Sofo3BkHjIbKUGzdYzJ2336mw&amp;oe=6A2F73CB&quot;}">
+            <span class="sbi-screenreader">Y sigue la travesía en Buenos Aires con @ottoscha</span>
+            	                    <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Y sigue la travesía en Buenos Aires con @ottoscharmer . Hoy en la UBA El futuro que nos llama, campos de transformación en la Argentina.">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_video sbi_new sbi_transition" id="sbi_17973489504006986" data-date="1773286123">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/reel/DVxO0pzjk0B/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-eze1-2.cdninstagram.com/v/t51.71878-15/649964714_26216313741356815_6669266698414839661_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=107&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&#038;_nc_ohc=iOuekzQBRGwQ7kNvwGVn6S-&#038;_nc_oc=AdooThXzG5x4E9M3ydBagIUD3DUFAIanZCcvK7yZghT6xQ3LK7odVRZOW2iAtd9bZfg&#038;_nc_zt=23&#038;_nc_ht=scontent-eze1-2.cdninstagram.com&#038;edm=AM6HXa8EAAAA&#038;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&#038;_nc_tpa=Q5bMBQGJ6VePsfTxE-j8W2Ygd81SKI9F7BWz1ypqAwRe1j2q-rD9d-CS4T2rHTd0VZVACXIg2Q9My5UE&#038;oh=00_Af-wj06aw25uN7pHfGNkiJmQ_ZUfyQFTPEIA-D991T7Iyg&#038;oe=6A2F55C2" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-eze1-2.cdninstagram.com\/v\/t51.71878-15\/649964714_26216313741356815_6669266698414839661_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=iOuekzQBRGwQ7kNvwGVn6S-&amp;_nc_oc=AdooThXzG5x4E9M3ydBagIUD3DUFAIanZCcvK7yZghT6xQ3LK7odVRZOW2iAtd9bZfg&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGJ6VePsfTxE-j8W2Ygd81SKI9F7BWz1ypqAwRe1j2q-rD9d-CS4T2rHTd0VZVACXIg2Q9My5UE&amp;oh=00_Af-wj06aw25uN7pHfGNkiJmQ_ZUfyQFTPEIA-D991T7Iyg&amp;oe=6A2F55C2&quot;,&quot;150&quot;:&quot;https:\/\/scontent-eze1-2.cdninstagram.com\/v\/t51.71878-15\/649964714_26216313741356815_6669266698414839661_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=iOuekzQBRGwQ7kNvwGVn6S-&amp;_nc_oc=AdooThXzG5x4E9M3ydBagIUD3DUFAIanZCcvK7yZghT6xQ3LK7odVRZOW2iAtd9bZfg&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGJ6VePsfTxE-j8W2Ygd81SKI9F7BWz1ypqAwRe1j2q-rD9d-CS4T2rHTd0VZVACXIg2Q9My5UE&amp;oh=00_Af-wj06aw25uN7pHfGNkiJmQ_ZUfyQFTPEIA-D991T7Iyg&amp;oe=6A2F55C2&quot;,&quot;320&quot;:&quot;https:\/\/scontent-eze1-2.cdninstagram.com\/v\/t51.71878-15\/649964714_26216313741356815_6669266698414839661_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=iOuekzQBRGwQ7kNvwGVn6S-&amp;_nc_oc=AdooThXzG5x4E9M3ydBagIUD3DUFAIanZCcvK7yZghT6xQ3LK7odVRZOW2iAtd9bZfg&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGJ6VePsfTxE-j8W2Ygd81SKI9F7BWz1ypqAwRe1j2q-rD9d-CS4T2rHTd0VZVACXIg2Q9My5UE&amp;oh=00_Af-wj06aw25uN7pHfGNkiJmQ_ZUfyQFTPEIA-D991T7Iyg&amp;oe=6A2F55C2&quot;,&quot;640&quot;:&quot;https:\/\/scontent-eze1-2.cdninstagram.com\/v\/t51.71878-15\/649964714_26216313741356815_6669266698414839661_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=107&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=iOuekzQBRGwQ7kNvwGVn6S-&amp;_nc_oc=AdooThXzG5x4E9M3ydBagIUD3DUFAIanZCcvK7yZghT6xQ3LK7odVRZOW2iAtd9bZfg&amp;_nc_zt=23&amp;_nc_ht=scontent-eze1-2.cdninstagram.com&amp;edm=AM6HXa8EAAAA&amp;_nc_gid=0Fc5B0qgaLH4drYM0x-SLQ&amp;_nc_tpa=Q5bMBQGJ6VePsfTxE-j8W2Ygd81SKI9F7BWz1ypqAwRe1j2q-rD9d-CS4T2rHTd0VZVACXIg2Q9My5UE&amp;oh=00_Af-wj06aw25uN7pHfGNkiJmQ_ZUfyQFTPEIA-D991T7Iyg&amp;oe=6A2F55C2&quot;}">
+            <span class="sbi-screenreader">Un espacio alucinante, con personas queridas, @cat</span>
+            	        <svg style="color: rgba(255,255,255,1)" class="svg-inline--fa fa-play fa-w-14 sbi_playbtn" aria-label="Play" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="play" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg>            <img src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Un espacio alucinante, con personas queridas, @catalinahornos @paulauhalde escuchando a @ottoscharmer">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load" >
+
+			<a class="sbi_load_btn" href="javascript:void(0);">
+			<span class="sbi_btn_text">Load More...</span>
+			<span class="sbi_loader sbi_hidden" style="background-color: rgb(255, 255, 255);" aria-hidden="true"></span>
+		</a>
+	
+			<span class="sbi_follow_btn">
+        <a href="https://www.instagram.com/andreachurba/" target="_blank" rel="nofollow noopener">
+            <svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+	            </svg>            <span>Follow on Instagram</span>
+        </a>
+    </span>
+	
+</div>
+
+	    <span class="sbi_resized_image_data" data-feed-id="*1" data-resized="{&quot;17973489504006986&quot;:{&quot;id&quot;:&quot;649964714_26216313741356815_6669266698414839661_n&quot;,&quot;ratio&quot;:&quot;1.33&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18117743161559197&quot;:{&quot;id&quot;:&quot;651008973_18567700915007476_2912429125542128510_n&quot;,&quot;ratio&quot;:&quot;1.33&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18429664327184208&quot;:{&quot;id&quot;:&quot;649422790_18567651157007476_2550258150250560686_n&quot;,&quot;ratio&quot;:&quot;1.33&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18097421558317599&quot;:{&quot;id&quot;:&quot;652561383_1463239035478027_5510266256663536731_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18077272448295008&quot;:{&quot;id&quot;:&quot;670840406_18578100517007476_187970643381674757_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18357601087239601&quot;:{&quot;id&quot;:&quot;674428409_3510261602464336_3498004507640479568_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18118967101674407&quot;:{&quot;id&quot;:&quot;675478443_4459190330981946_6575764747947656447_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18101041559089788&quot;:{&quot;id&quot;:&quot;687684796_2590137278109081_6951835023973313761_n&quot;,&quot;ratio&quot;:&quot;0.56&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}},&quot;18107325946864344&quot;:{&quot;id&quot;:&quot;712389483_18589919794007476_8809709330308681989_n&quot;,&quot;ratio&quot;:&quot;1.33&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150}}}">
+	</span>
+	</div>
+
+</div></section></div></div></div><div class="customify-col-2_md-2_sm-6_xs-12 builder-item builder-first--footer-4" data-push-left="_sm-0"><div class="item--inner builder-item--footer-4" data-section="sidebar-widgets-footer-4" data-item-id="footer-4" ><div class="widget-area"><section id="custom_html-7" class="widget_text widget widget_custom_html"><h4 class="widget-title">Facebook</h4><div class="textwidget custom-html-widget"><div class="cff-wrapper"><div class="cff-wrapper-ctn  cff-wrapper-fixed-height"  style="padding:5px;height:300px;" ><div id="cff"  class="cff cff-list-container  cff-fixed-height  cff-default-styles  cff-mob-cols-1 cff-tab-cols-1"   style="width:100%;"   data-char="200" ><div class="cff-error-msg">
+	<div>
+		<i class="fa fa-lock" aria-hidden="true" style="margin-right: 5px;"></i><b>This message is only visible to admins.</b><br/>
+		Problem displaying Facebook posts. Backup cache in use.					<br/><a href="javascript:void(0);" id="cff-show-error" onclick="cffShowError()">Click to show error</a>
+			<script type="text/javascript">function cffShowError() { document.getElementById("cff-error-reason").style.display = "block"; document.getElementById("cff-show-error").style.display = "none"; }</script>
+			</div>
+			<div id="cff-error-reason">
+									<b>Error:</b> Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.													<b>Type:</b> OAuthException																												
+			</div>
+				
+</div>
+<div class="cff-posts-wrap"></div><input class="cff-pag-url" type="hidden" data-locatornonce="e14fcdcaea" data-cff-shortcode="" data-post-id="" data-feed-id="1659963934253719"></div></div><div class="cff-clear"></div></div><style>#cff .cff-post-text a{ color: #808080; }</style></div></section><section id="media_image-10" class="widget widget_media_image"><a href="https://www.facebook.com/andrea.churba.1" target="_blank" rel="noopener"><img width="172" height="30" src="http://www.andreachurba.com.ar/wp-content/uploads/2018/12/seguir-facebook.png" class="image wp-image-2887  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" /></a></section></div></div></div><div class="customify-col-3_md-3_sm-6_xs-12 builder-item builder-first--footer-5" data-push-left="_sm-0"><div class="item--inner builder-item--footer-5" data-section="sidebar-widgets-footer-5" data-item-id="footer-5" ><div class="widget-area"><section id="text-3" class="widget widget_text"><h4 class="widget-title">YouTube</h4>			<div class="textwidget"><div class="epyt-gallery" data-currpage="1" id="epyt_gallery_16097"><iframe loading="lazy"  id="_ytid_87363"   data-origwidth="843" data-origheight="474" src="https://www.youtube.com/embed/Z2lBKOuFT5g?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=3&loop=0&modestbranding=0&rel=1&fs=1&playsinline=0&autohide=2&theme=dark&color=red&controls=1&" class="__youtube_prefs__  __youtube_prefs_widget__  no-lazyload" title="YouTube player"  data-epytgalleryid="epyt_gallery_16097"  allow="fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-no-lazy="1" data-skipgform_ajax_framebjll=""></iframe><div class="epyt-gallery-list"><div class="epyt-pagination epyt-hide-pagination"><div tabindex="0" role="button" class="epyt-pagebutton epyt-prev  hide " data-playlistid="UU4KdKuK2LO_uhGYLfIGM-Xg" data-pagesize="2" data-pagetoken="" data-epcolumns="2" data-showtitle="1" data-showpaging="0" data-autonext="0" data-thumbplay="1"><div class="epyt-arrow">&laquo;</div> <div>Anterior</div></div><div class="epyt-pagenumbers "><div class="epyt-current">1</div><div class="epyt-pageseparator"> / </div><div class="epyt-totalpages">20</div></div><div tabindex="0" role="button" class="epyt-pagebutton epyt-next" data-playlistid="UU4KdKuK2LO_uhGYLfIGM-Xg" data-pagesize="2" data-pagetoken="EAAaHlBUOkNBSWlFRFJCTkVNeU5qUkZNMFl6TlVRMU9Uaw" data-epcolumns="2" data-showtitle="1" data-showpaging="0" data-autonext="0" data-thumbplay="1"><div>Siguiente</div> <div class="epyt-arrow">&raquo;</div></div><div class="epyt-loader"><img loading="lazy" decoding="async" alt="loading" width="16" height="11" src="http://www.andreachurba.com.ar/wp-content/plugins/youtube-embed-plus/images/gallery-page-loader.gif"></div></div><div class="epyt-gallery-allthumbs  epyt-cols-2 "><div tabindex="0" role="button" data-videoid="Z2lBKOuFT5g" class="epyt-gallery-thumb"><div class="epyt-gallery-img-box"><div class="epyt-gallery-img" style="background-image: url(https://i.ytimg.com/vi/Z2lBKOuFT5g/hqdefault.jpg)"><div class="epyt-gallery-playhover"><img loading="lazy" decoding="async" alt="play" class="epyt-play-img" width="30" height="23" src="http://www.andreachurba.com.ar/wp-content/plugins/youtube-embed-plus/images/playhover.png" data-no-lazy="1" data-skipgform_ajax_framebjll="" /><div class="epyt-gallery-playcrutch"></div></div></div></div><div class="epyt-gallery-title">¿PORQUE EL MISMO CAMBIO ENTUSIASMA A UNOS Y PARALIZA A OTROS?</div></div><div tabindex="0" role="button" data-videoid="k15WK9J53yI" class="epyt-gallery-thumb"><div class="epyt-gallery-img-box"><div class="epyt-gallery-img" style="background-image: url(https://i.ytimg.com/vi/k15WK9J53yI/hqdefault.jpg)"><div class="epyt-gallery-playhover"><img loading="lazy" decoding="async" alt="play" class="epyt-play-img" width="30" height="23" src="http://www.andreachurba.com.ar/wp-content/plugins/youtube-embed-plus/images/playhover.png" data-no-lazy="1" data-skipgform_ajax_framebjll="" /><div class="epyt-gallery-playcrutch"></div></div></div></div><div class="epyt-gallery-title">¿POR QUE EL CAMBIO NO AFECTA A TODOS IGUAL?</div></div><div class="epyt-gallery-rowbreak"></div><div class="epyt-gallery-clear"></div></div><div class="epyt-pagination epyt-hide-pagination"><div tabindex="0" role="button" class="epyt-pagebutton epyt-prev  hide " data-playlistid="UU4KdKuK2LO_uhGYLfIGM-Xg" data-pagesize="2" data-pagetoken="" data-epcolumns="2" data-showtitle="1" data-showpaging="0" data-autonext="0" data-thumbplay="1"><div class="epyt-arrow">&laquo;</div> <div>Anterior</div></div><div class="epyt-pagenumbers "><div class="epyt-current">1</div><div class="epyt-pageseparator"> / </div><div class="epyt-totalpages">20</div></div><div tabindex="0" role="button" class="epyt-pagebutton epyt-next" data-playlistid="UU4KdKuK2LO_uhGYLfIGM-Xg" data-pagesize="2" data-pagetoken="EAAaHlBUOkNBSWlFRFJCTkVNeU5qUkZNMFl6TlVRMU9Uaw" data-epcolumns="2" data-showtitle="1" data-showpaging="0" data-autonext="0" data-thumbplay="1"><div>Siguiente</div> <div class="epyt-arrow">&raquo;</div></div><div class="epyt-loader"><img loading="lazy" decoding="async" alt="loading" width="16" height="11" src="http://www.andreachurba.com.ar/wp-content/plugins/youtube-embed-plus/images/gallery-page-loader.gif"></div></div></div></div>
+</div>
+		</section><section id="media_image-11" class="widget widget_media_image"><a href="https://www.youtube.com/channel/UC4KdKuK2LO_uhGYLfIGM-Xg" target="_blank" rel="noopener"><img width="172" height="30" src="http://www.andreachurba.com.ar/wp-content/uploads/2018/12/seguir-youtube.png" class="image wp-image-2888  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" /></a></section></div></div></div><div class="customify-col-2_md-2_sm-6_xs-12 builder-item builder-first--footer-3" data-push-left="_sm-0"><div class="item--inner builder-item--footer-3" data-section="sidebar-widgets-footer-3" data-item-id="footer-3" ><div class="widget-area"><section id="media_image-7" class="widget widget_media_image"><h4 class="widget-title">La Nación</h4><a href="https://www.lanacion.com.ar/autor/andrea-churba-8822" target="_blank" rel="noopener"><img width="372" height="316" src="http://www.andreachurba.com.ar/wp-content/uploads/2018/12/la-nacion.png" class="image wp-image-2875  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="http://www.andreachurba.com.ar/wp-content/uploads/2018/12/la-nacion.png 372w, http://www.andreachurba.com.ar/wp-content/uploads/2018/12/la-nacion-300x255.png 300w" sizes="(max-width: 372px) 100vw, 372px" /></a></section></div></div></div></div>									</div>
+								</div>
+							</div>
+														<div  class="footer-bottom footer--row layout-full-contained"  id="cb-row--footer-bottom"  data-row-id="bottom"  data-show-on="desktop">
+								<div class="footer--row-inner footer-bottom-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid  customify-grid-top"><div class="customify-col-12_md-12_sm-12_xs-12 builder-item builder-first--footer_copyright" data-push-left="_sm-0"><div class="item--inner builder-item--footer_copyright" data-section="footer_copyright" data-item-id="footer_copyright" ><div class="builder-footer-copyright-item footer-copyright"><p>Copyright &copy; 2026 Andrea Churba &#8211; Diseñado por Crasso &amp; Oregioni.</p>
+</div></div></div></div>									</div>
+								</div>
+							</div>
+							</footer></div><!-- #page -->
+
+<!-- Custom Facebook Feed JS -->
+<script type="text/javascript">var cffajaxurl = "http://www.andreachurba.com.ar/wp-admin/admin-ajax.php";
+var cfflinkhashtags = "true";
+</script>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "http://www.andreachurba.com.ar/wp-admin/admin-ajax.php";
+</script>
+<style type="text/css" data-ctf-style="1">.ctf-feed-1 .ctf-more{color:#808080!important;}.ctf-feed-1 .ctf-tweet-text, .ctf-feed-1 .ctf-quoted-tweet-text{color:#808080!important;}.ctf-feed-1 .ctf-tweet-actions a{color:#808080!important;}.ctf-feed-1 .ctf-quoted-tweet{color:#808080!important;}.ctf-feed-1 .ctf-twitterlink{color:#808080!important;}.ctf-feed-1.ctf-fixed-height{height:300px!important;}.ctf-feed-1 .ctf-tweet-text a{color:#808080!important;}.ctf-feed-1.ctf-regular-style .ctf-item, .ctf-feed-1 .ctf-header{border-bottom:1px solid #ddd!important;}</style><script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.7" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"http:\/\/www.andreachurba.com.ar\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.7" id="contact-form-7-js"></script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/simple-share-buttons-adder/js/ssba.js?ver=1707341336" id="simple-share-buttons-adder-ssba-js"></script>
+<script type="text/javascript" id="simple-share-buttons-adder-ssba-js-after">
+/* <![CDATA[ */
+Main.boot( [] );
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.min.js?ver=4.2.1" id="cffscripts-js"></script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0" id="do-etfw-twitter-widgets-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Lf7BoQUAAAAAIYCWbxrjwGIJOY-e6M42XA2X_Tn&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6Lf7BoQUAAAAAIYCWbxrjwGIJOY-e6M42XA2X_Tn","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.7" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" id="customify-themejs-js-extra">
+/* <![CDATA[ */
+var Customify_JS = {"css_media_queries":{"all":"%s","desktop":"%s","tablet":"@media screen and (max-width: 1024px) { %s }","mobile":"@media screen and (max-width: 568px) { %s }"},"sidebar_menu_no_duplicator":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/themes/customify/assets/js/theme.min.js?ver=0.2.8" id="customify-themejs-js"></script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.2.1" id="__ytprefsfitvids__-js"></script>
+<script type="text/javascript" id="ctf_scripts-js-extra">
+/* <![CDATA[ */
+var ctf = {"ajax_url":"http:\/\/www.andreachurba.com.ar\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.min.js?ver=2.2.2" id="ctf_scripts-js"></script>
+<script type="text/javascript" id="sbi_scripts-js-extra">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"http:\/\/www.andreachurba.com.ar\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"http:\/\/www.andreachurba.com.ar\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png","ajax_url":"http:\/\/www.andreachurba.com.ar\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.andreachurba.com.ar/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.2.8" id="sbi_scripts-js"></script>
+
+
+<style>
+</style>
+
+
+<style>
+</style>
+
+
+
+<script>
+var post_grid_vars = {"siteUrl":"http:\/\/www.andreachurba.com.ar"}</script>
+<style>
+</style>
+
+</body>
+</html>
