@@ -28,15 +28,27 @@ export default function VideoModalProvider({ children }: { children: ReactNode }
 
   useEffect(() => {
     if (!video) return;
-    const prevOverflow = document.body.style.overflow;
+
+    const scrollY = window.scrollY;
+    document.body.style.position = "fixed";
+    document.body.style.top = `-${scrollY}px`;
+    document.body.style.left = "0";
+    document.body.style.right = "0";
     document.body.style.overflow = "hidden";
 
     function onKey(e: KeyboardEvent) {
       if (e.key === "Escape") setVideo(null);
     }
     window.addEventListener("keydown", onKey);
+
     return () => {
-      document.body.style.overflow = prevOverflow;
+      const y = document.body.style.top;
+      document.body.style.position = "";
+      document.body.style.top = "";
+      document.body.style.left = "";
+      document.body.style.right = "";
+      document.body.style.overflow = "";
+      window.scrollTo(0, parseInt(y || "0", 10) * -1);
       window.removeEventListener("keydown", onKey);
     };
   }, [video]);
