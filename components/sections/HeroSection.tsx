@@ -93,7 +93,7 @@ export default function HeroSection() {
                 className="text-light/90 text-[clamp(14px,1.2vw,18px)] leading-[1.55] max-w-[540px] mb-7"
                 style={{ textShadow: "0 2px 16px rgba(0,0,0,0.6)" }}
               >
-                Soy psicóloga y creadora del método Business Therapy. Acompaño a personas, equipos y organizaciones en procesos de cambio cultural y de transformación laboral. Voy a fondo cuando trabajo.
+                Soy psicóloga y creadora del método Business Therapy. Acompaño a personas, equipos y organizaciones en procesos de cambio cultural y de transformación laboral.
               </motion.p>
 
               <motion.div

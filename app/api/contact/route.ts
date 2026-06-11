@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { Resend } from "resend";
+import { rateLimit, getClientIp } from "@/lib/rateLimit";
 
 export const runtime = "nodejs";
 
@@ -28,8 +29,22 @@ const Body = {
 
 export async function POST(req: Request) {
   try {
+    const ip = getClientIp(req);
+    const rl = rateLimit({ key: `contact:${ip}`, limit: 5, windowMs: 60 * 60 * 1000 });
+    if (!rl.ok) {
+      const retryAfter = Math.ceil((rl.resetAt - Date.now()) / 1000);
+      return NextResponse.json(
+        { error: "Demasiados intentos. Probá de nuevo en un rato." },
+        { status: 429, headers: { "Retry-After": String(retryAfter) } },
+      );
+    }
+
     const json = await req.json().catch(() => null);
     const data = Body.parse(json);
+
+    if ((data as unknown as { website?: string }).website) {
+      return NextResponse.json({ ok: true }); // honeypot — pretend success
+    }
 
     const RESEND_KEY = process.env.RESEND_API_KEY;
     const TO = process.env.CONTACT_EMAIL_TO || "hola@andreachurba.com.ar";

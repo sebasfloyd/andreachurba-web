@@ -45,14 +45,14 @@ export const metadata: Metadata = {
     description: siteConfig.description,
     siteName: "Andrea Churba",
     images: [
-      { url: "/images/andrea/andrea-bw.jpg", width: 1822, height: 1822, alt: "Andrea Churba" },
+      { url: "/og-image.jpg", width: 1200, height: 630, alt: "Andrea Churba — Psicóloga · Coach de líderes" },
     ],
   },
   twitter: {
     card: "summary_large_image",
     title: `Andrea Churba — ${siteConfig.tagline}`,
     description: siteConfig.description,
-    images: ["/images/andrea/andrea-bw.jpg"],
+    images: ["/og-image.jpg"],
   },
   icons: {
     icon: "/favicon.svg",
@@ -68,12 +68,104 @@ export const viewport: Viewport = {
   themeColor: "#FFFFFF",
 };
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": `${siteConfig.url}#andrea`,
+      name: "Andrea Churba",
+      jobTitle: "Psicóloga · Coach de líderes",
+      description: siteConfig.description,
+      url: siteConfig.url,
+      image: `${siteConfig.url}/images/andrea/andrea-bw.jpg`,
+      sameAs: [
+        siteConfig.social.linkedin,
+        siteConfig.social.instagram,
+        siteConfig.social.youtube,
+      ],
+      knowsAbout: [
+        "Liderazgo",
+        "Cambio cultural",
+        "Coaching ejecutivo",
+        "Psicología organizacional",
+        "Business Therapy",
+      ],
+      worksFor: {
+        "@type": "Organization",
+        name: "Business Therapy",
+        url: siteConfig.url,
+      },
+      nationality: "Argentina",
+      knowsLanguage: ["es", "en", "pt"],
+      address: {
+        "@type": "PostalAddress",
+        addressLocality: "Buenos Aires",
+        addressCountry: "AR",
+      },
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": `${siteConfig.url}#service`,
+      name: "Business Therapy",
+      provider: { "@id": `${siteConfig.url}#andrea` },
+      areaServed: ["Argentina", "Latinoamérica", "España"],
+      url: siteConfig.url,
+      description: "Procesos de cambio cultural, coaching ejecutivo, charlas y workshops.",
+      hasOfferCatalog: {
+        "@type": "OfferCatalog",
+        name: "Servicios",
+        itemListElement: [
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Organizaciones y Cultura",
+              description: "Acompañamiento a equipos directivos en procesos de cambio cultural.",
+            },
+          },
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Coaching para personas que trabajan",
+              description: "Coaching uno a uno para líderes en puntos de inflexión.",
+            },
+          },
+          {
+            "@type": "Offer",
+            itemOffered: {
+              "@type": "Service",
+              name: "Experiencias de aprendizaje",
+              description: "Keynotes, workshops y programas in-company.",
+            },
+          },
+        ],
+      },
+    },
+    {
+      "@type": "WebSite",
+      "@id": `${siteConfig.url}#website`,
+      url: siteConfig.url,
+      name: "Andrea Churba",
+      inLanguage: "es-AR",
+      publisher: { "@id": `${siteConfig.url}#andrea` },
+    },
+  ],
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html
       lang="es-AR"
       className={`${inter.variable} ${mono.variable} ${fraunces.variable}`}
     >
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </head>
       <body>
         <VideoModalProvider>
           <ColumnaModalProvider>

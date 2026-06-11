@@ -1,9 +1,20 @@
 import { NextResponse } from "next/server";
+import { rateLimit, getClientIp } from "@/lib/rateLimit";
 
 export const runtime = "nodejs";
 
 export async function POST(req: Request) {
   try {
+    const ip = getClientIp(req);
+    const rl = rateLimit({ key: `nl:${ip}`, limit: 5, windowMs: 60 * 60 * 1000 });
+    if (!rl.ok) {
+      const retryAfter = Math.ceil((rl.resetAt - Date.now()) / 1000);
+      return NextResponse.json(
+        { error: "Demasiados intentos. Probá de nuevo en un rato." },
+        { status: 429, headers: { "Retry-After": String(retryAfter) } },
+      );
+    }
+
     const json = await req.json().catch(() => null);
     if (!json || typeof json !== "object") {
       return NextResponse.json({ error: "Bad request" }, { status: 400 });
